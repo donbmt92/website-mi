@@ -1,10 +1,10 @@
-import Theme1Theme from '@/components/themes/Theme1Theme'
+import VietnamCoffeeTheme from '@/components/themes/VietnamCoffeeTheme'
 import themeData from '@/data/theme-data.json'
 
 export default function Home() {
   return (
     <main>
-      <Theme1Theme theme={themeData as any} />
+      <VietnamCoffeeTheme theme={themeData as any} />
     </main>
   )
 }
