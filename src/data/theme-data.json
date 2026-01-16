@@ -1,0 +1,633 @@
+{
+  "colors": {
+    "primary": "#8B4513",
+    "secondary": "#A0522D",
+    "accent": "#FFD700",
+    "background": "#FFFFFF",
+    "text": "#333333",
+    "border": "#E0E0E0"
+  },
+  "typography": {
+    "fontFamily": "Inter",
+    "fontSize": "16px",
+    "headingSize": "xl",
+    "bodySize": "base",
+    "lineHeight": "1.6",
+    "fontWeight": "400"
+  },
+  "layout": {
+    "containerWidth": "1200px",
+    "sectionSpacing": "80px",
+    "spacing": "comfortable",
+    "borderRadius": "8px"
+  },
+  "components": {
+    "button": {
+      "size": "medium",
+      "style": "solid",
+      "rounded": true
+    },
+    "card": {
+      "border": true,
+      "shadow": "medium",
+      "padding": "medium"
+    },
+    "form": {
+      "style": "modern",
+      "validation": "inline"
+    },
+    "navigation": {
+      "style": "horizontal",
+      "sticky": true
+    }
+  },
+  "content": {
+    "meta": {
+      "title": "Cà Phê Việt Nam - Chất Lượng Quốc Tế",
+      "description": "Chuyên cung cấp cà phê Việt Nam chất lượng cao cho thị trường quốc tế",
+      "keywords": "cà phê việt nam, xuất khẩu cà phê, robusta, arabica"
+    },
+    "header": {
+      "title": "Cà Phê Việt Plus",
+      "subtitle": "Nâng tầm cà phê Việt trên bản đồ thế giới",
+      "backgroundColor": "#FFFFFF",
+      "textColor": "#1d1916",
+      "logo": "/uploads/1768400430547-vcdntickrf.png",
+      "logoSize": "medium",
+      "colorMode": "custom",
+      "primaryColor": "#8B4513",
+      "navigation": [
+        {
+          "href": "#home",
+          "name": "Trang chủ"
+        },
+        {
+          "href": "#products",
+          "name": "Sản phẩm"
+        },
+        {
+          "href": "#services",
+          "name": "Dịch vụ"
+        },
+        {
+          "href": "#about",
+          "name": "Về chúng tôi"
+        },
+        {
+          "href": "#contact",
+          "name": "Liên hệ"
+        }
+      ],
+      "ctaButton": {
+        "href": "#contact",
+        "text": "Nhận báo giá",
+        "style": "primary"
+      },
+      "socialLinks": [
+        {
+          "url": "https://facebook.com/caphevietplus",
+          "icon": "Facebook",
+          "platform": "facebook"
+        },
+        {
+          "url": "https://linkedin.com/company/caphevietplus",
+          "icon": "Linkedin",
+          "platform": "linkedin"
+        }
+      ]
+    },
+    "hero": {
+      "title": "Chuyên Gia Rang Xay & Xuất Khẩu Cà Phê Đặc Sản Việt Nam",
+      "subtitle": "Chất lượng từ Tây Nguyên, vươn tầm quốc tế",
+      "description": "Cà Phê Việt Plus cung cấp cà phê chất lượng cao, được tuyển chọn kỹ lưỡng từ các vùng trồng uy tín, áp dụng công nghệ rang hiện đại để giữ trọn hương vị nguyên bản và bền vững.",
+      "ctaText": "Khám phá Sản phẩm",
+      "ctaSecondaryText": "Liên hệ Tư vấn",
+      "image": "/assets/hero-image.jpg",
+      "titleSize": "base",
+      "subtitleSize": "lg",
+      "descriptionSize": "base",
+      "benefitsSize": "base",
+      "ctaSize": "lg",
+      "statsSize": "lg",
+      "titleWeight": "semibold",
+      "subtitleWeight": "medium",
+      "descriptionWeight": "normal",
+      "benefitsWeight": "medium",
+      "ctaWeight": "semibold",
+      "statsWeight": "bold",
+      "titleFont": "inter",
+      "subtitleFont": "inter",
+      "descriptionFont": "inter",
+      "benefitsFont": "inter",
+      "ctaFont": "inter",
+      "statsFont": "inter",
+      "benefits": [
+        {
+          "icon": "CheckCircle",
+          "text": "Cà phê nguyên chất 100%"
+        },
+        {
+          "icon": "Shield",
+          "text": "Kiểm soát chất lượng nghiêm ngặt"
+        },
+        {
+          "icon": "Truck",
+          "text": "Giải pháp xuất khẩu toàn diện"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Tấn cà phê",
+          "number": "500+"
+        },
+        {
+          "label": "Năm kinh nghiệm",
+          "number": "5+"
+        },
+        {
+          "label": "Quốc gia",
+          "number": "30+"
+        }
+      ],
+      "backgroundImage": "/uploads/1768400444709-rbleufrrlp.png"
+    },
+    "about": {
+      "title": "Về Chúng Tôi ",
+      "description": "Cà Phê Việt Plus là doanh nghiệp tiên phong trong việc sản xuất, rang xay và phân phối cà phê đặc sản Việt Nam. Chúng tôi cam kết mang đến những hạt cà phê chất lượng cao nhất, được tuyển chọn từ các vùng trồng cà phê Arabica và Robusta danh tiếng của Tây Nguyên và Lâm Đồng. Với công nghệ rang xay tiên tiến và quy trình kiểm soát chất lượng chặt chẽ, chúng tôi tự hào là đối tác tin cậy cho các nhà phân phối, chuỗi F&B và khách hàng cá nhân trên toàn ",
+      "image": "/assets/about-image.jpg",
+      "features": [
+        {
+          "icon": "Award",
+          "title": "Tuyển chọn nguyên liệu",
+          "description": "Thu hoạch và tuyển chọn thủ công những hạt cà phê tốt nhất."
+        },
+        {
+          "icon": "Globe",
+          "title": "Rang xay công nghệ cao",
+          "description": "Sử dụng máy rang hiện đại, kiểm soát nhiệt độ và thời gian chính xác."
+        },
+        {
+          "icon": "Users",
+          "title": "Đội ngũ chuyên gia",
+          "description": "Đội ngũ Q-Grader và Master Roaster giàu kinh nghiệm."
+        }
+      ]
+    },
+    "problems": {
+      "title": "Những Thách Thức Bạn Đang Đối Mặt?",
+      "description": "Chúng tôi hiểu những khó khăn mà các doanh nghiệp trong ngành cà phê đang gặp phải khi tìm kiếm nguồn cung ổn định và chất lượng cao.",
+      "backgroundColor": "#e0dfdc",
+      "textColor": "#333333",
+      "colorMode": "custom",
+      "primaryColor": "#8B4513",
+      "titleSize": "2xl",
+      "descriptionSize": "base",
+      "titleWeight": "bold",
+      "descriptionWeight": "normal",
+      "titleFont": "inter",
+      "descriptionFont": "inter",
+      "itemTitleWeight": "semibold",
+      "itemTitleFont": "inter",
+      "itemDescriptionSize": "base",
+      "itemDescriptionFont": "inter",
+      "items": [
+        {
+          "id": "1",
+          "icon": "AlertTriangle",
+          "title": "Chất lượng không đồng đều",
+          "description": "Khó khăn trong việc tìm kiếm nguồn nguyên liệu đầu vào có chất lượng ổn định theo từng lô hàng."
+        },
+        {
+          "id": "2",
+          "icon": "Clock",
+          "title": "Quy trình rang xay thiếu chuyên nghiệp",
+          "description": "Rang xay không chuẩn, dẫn đến hương vị cà phê không đạt yêu cầu hoặc bị biến đổi qua thời gian."
+        },
+        {
+          "id": "3",
+          "icon": "DollarSign",
+          "title": "Thị trường xuất khẩu phức tạp",
+          "description": "Rào cản về thủ tục, chứng nhận và logistics khi muốn đưa cà phê ra thị trường quốc tế."
+        },
+        {
+          "id": "4",
+          "icon": "Truck",
+          "title": "Thiếu sự linh hoạt trong sản xuất",
+          "description": "Các nhà cung cấp không đáp ứng được yêu cầu về rang xay theo nhãn hiệu riêng (OEM/Private Label)."
+        }
+      ]
+    },
+    "solutions": {
+      "title": "Giải Pháp Cà Phê Việt Plus",
+      "description": "Chúng tôi cung cấp các giải pháp toàn diện để giải quyết những thách thức trên, đảm bảo sự phát triển bền vững cho đối tác.",
+      "backgroundColor": "#253d55",
+      "textColor": "#b82e2e",
+      "colorMode": "custom",
+      "primaryColor": "#df9862",
+      "titleSize": "2xl",
+      "descriptionSize": "base",
+      "titleWeight": "bold",
+      "descriptionWeight": "normal",
+      "titleFont": "inter",
+      "descriptionFont": "inter",
+      "itemTitleWeight": "semibold",
+      "itemTitleFont": "inter",
+      "itemDescriptionSize": "base",
+      "itemDescriptionFont": "inter",
+      "itemBenefitWeight": "medium",
+      "itemBenefitFont": "inter",
+      "items": [
+        {
+          "id": "1",
+          "icon": "Globe",
+          "title": "Kiểm soát chất lượng chặt chẽ",
+          "benefit": "Hương vị ổn định, chất lượng cao",
+          "description": "Quy trình kiểm định chất lượng nghiêm ngặt từ nông trại, đảm bảo sự đồng nhất tuyệt đối cho mọi lô hàng."
+        },
+        {
+          "id": "2",
+          "icon": "Shield",
+          "title": "Công nghệ rang xay hiện đại",
+          "benefit": "Hương vị cà phê chuẩn xác, hấp dẫn",
+          "description": "Sử dụng hệ thống rang xay tiên tiến, giúp tối ưu hóa hương vị tự nhiên của từng loại hạt cà phê."
+        },
+        {
+          "id": "3",
+          "icon": "Zap",
+          "title": "Hỗ trợ xuất khẩu trọn gói",
+          "benefit": "Mở rộng thị trường quốc tế dễ dàng",
+          "description": "Chuyên gia logistics và pháp lý sẵn sàng hỗ trợ mọi thủ tục xuất khẩu, đảm bảo hàng hóa đến nơi an toàn và đúng hạn."
+        },
+        {
+          "id": "4",
+          "icon": "Package",
+          "title": "Dịch vụ OEM linh hoạt",
+          "benefit": "Xây dựng thương hiệu riêng mạnh mẽ",
+          "description": "Cung cấp dịch vụ gia công theo yêu cầu với khả năng tùy biến cao về hồ sơ rang và đóng gói thương hiệu riêng."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Sẵn Sàng Nâng Cấp Chất Lượng Cà Phê Của Bạn?",
+      "description": "Đừng bỏ lỡ cơ hội hợp tác với nhà cung cấp cà phê uy tín hàng đầu Việt Nam. Hãy để chúng tôi giúp bạn tạo ra những sản phẩm cà phê tuyệt vời.",
+      "buttonText": "Yêu cầu tư vấn ngay",
+      "buttonSecondaryText": "Xem danh mục sản phẩm",
+      "backgroundColor": "#8B4513",
+      "textColor": "#FFFFFF",
+      "image": "/assets/cta-image.jpg"
+    },
+    "products": {
+      "title": "Sản Phẩm & Dịch Vụ",
+      "description": "Cung cấp giải pháp cà phê toàn diện từ hạt rang đến tư vấn chuyên sâu cho các đối tác kinh doanh.",
+      "backgroundColor": "#F0F4F8",
+      "textColor": "#333333",
+      "colorMode": "custom",
+      "primaryColor": "#8B4513",
+      "titleSize": "2xl",
+      "titleWeight": "bold",
+      "titleFont": "inter",
+      "descriptionSize": "base",
+      "descriptionWeight": "normal",
+      "descriptionFont": "inter",
+      "items": [
+        {
+          "id": "1",
+          "name": "Cà Phê Hạt Rang (Arabica, Robusta, Blend)",
+          "image": "/assets/product-1.jpg",
+          "price": "Liên hệ",
+          "category": "Cà phê hạt",
+          "features": [
+            "Rang mộc theo yêu cầu",
+            "Độ rang tùy chỉnh",
+            "Đóng gói chuyên nghiệp"
+          ],
+          "description": "Các dòng cà phê hạt rang xay sẵn, phù hợp với nhiều phương pháp pha chế khác nhau, đảm bảo hương vị tươi mới và độ đồng nhất cao."
+        },
+        {
+          "id": "2",
+          "name": "Cà Phê Bột Nguyên Chất",
+          "image": "/assets/product-2.jpg",
+          "price": "Liên hệ",
+          "category": "Cà phê bột",
+          "features": [
+            "Xay theo yêu cầu",
+            "Đóng gói bảo quản tối ưu",
+            "Hương vị đậm đà"
+          ],
+          "description": "Cà phê xay sẵn theo tiêu chuẩn xay của khách hàng (Espresso, Phin, Cold Brew...), giữ trọn hương thơm và độ tươi mới."
+        },
+        {
+          "id": "3",
+          "name": "Cà Phê Đặc Sản (Specialty Coffee)",
+          "image": "/assets/product-3.jpg",
+          "price": "Liên hệ",
+          "category": "Cà phê đặc sản",
+          "features": [
+            "Nguồn gốc rõ ràng",
+            "Hồ sơ hương vị chi tiết",
+            "Chứng nhận chất lượng"
+          ],
+          "description": "Các dòng cà phê chất lượng cao, được đánh giá trên 80 điểm SCA, mang đến trải nghiệm hương vị phức tạp và độc đáo."
+        }
+      ],
+      "services": [
+        {
+          "id": "1",
+          "cta": "Tìm hiểu thêm",
+          "icon": "Package",
+          "name": "Gia công OEM/Private Label",
+          "description": "Cung cấp dịch vụ rang xay, đóng gói theo thương hiệu riêng của quý khách hàng với tiêu chuẩn chất lượng cao."
+        },
+        {
+          "id": "2",
+          "cta": "Tìm hiểu thêm",
+          "icon": "Users",
+          "name": "Tư vấn Setup Menu & Nguồn Cung",
+          "description": "Hỗ trợ chuỗi F&B xây dựng menu cà phê độc đáo và tối ưu hóa nguồn cung ổn định."
+        },
+        {
+          "id": "3",
+          "cta": "Tìm hiểu thêm",
+          "icon": "Globe",
+          "name": "Xuất khẩu cà phê",
+          "description": "Hỗ trợ thủ tục và logistics xuất khẩu cà phê Việt Nam ra thị trường quốc tế."
+        },
+        {
+          "id": "4",
+          "cta": "Tìm hiểu thêm",
+          "icon": "TrendingUp",
+          "name": "Hợp tác phân phối",
+          "description": "Chương trình hợp tác phân phối cho các nhà nhập khẩu và đại lý tại thị trường nội địa và quốc tế."
+        }
+      ]
+    },
+    "footer": {
+      "companyName": "Cà Phê Việt Plus",
+      "description": "Chuyên cung cấp Sản xuất & rang xay cà phê, Phân phối cà phê đặc sản, Thương mại điện tử cà phê, và Xuất khẩu cà phê Việt Nam chất lượng cao cho thị trường quốc tế.",
+      "backgroundColor": "#8B4513",
+      "textColor": "#F9FAFB",
+      "contact": {
+        "phone": "+84 123 456 789",
+        "email": "info@caphevietplus.vn",
+        "address": "123 Đường ABC, Quận 1, TP. Hồ Chí Minh, Việt Nam",
+        "businessHours": "Thứ 2-Thứ 6: 8AM-6PM"
+      },
+      "quickLinks": [
+        {
+          "href": "#home",
+          "name": "Trang chủ"
+        },
+        {
+          "href": "#products",
+          "name": "Sản phẩm"
+        },
+        {
+          "href": "#services",
+          "name": "Dịch vụ"
+        },
+        {
+          "href": "#about",
+          "name": "Về chúng tôi"
+        },
+        {
+          "href": "#contact",
+          "name": "Liên hệ"
+        }
+      ],
+      "resources": [
+        {
+          "href": "#docs",
+          "name": "Tài liệu"
+        },
+        {
+          "href": "#support",
+          "name": "Hỗ trợ"
+        },
+        {
+          "href": "#faq",
+          "name": "Câu hỏi thường gặp"
+        }
+      ],
+      "legal": [
+        {
+          "href": "#privacy",
+          "name": "Chính Sách Bảo Mật"
+        },
+        {
+          "href": "#terms",
+          "name": "Điều Khoản Dịch Vụ"
+        },
+        {
+          "href": "#cookies",
+          "name": "Chính Sách Cookie"
+        },
+        {
+          "href": "#compliance",
+          "name": "Tuân Thủ"
+        }
+      ],
+      "socialLinks": [
+        {
+          "href": "#",
+          "icon": "Facebook",
+          "label": "Facebook"
+        },
+        {
+          "href": "#",
+          "icon": "Twitter",
+          "label": "Twitter"
+        },
+        {
+          "href": "#",
+          "icon": "Linkedin",
+          "label": "LinkedIn"
+        },
+        {
+          "href": "#",
+          "icon": "Youtube",
+          "label": "YouTube"
+        }
+      ],
+      "colorMode": "theme",
+      "newsletter": {
+        "title": "Đăng ký nhận tin",
+        "buttonText": "Đăng ký",
+        "description": "Nhận thông tin cập nhật về sản phẩm mới và thị trường cà phê.",
+        "placeholder": "Nhập email của bạn"
+      }
+    },
+    "testimonials": {
+      "title": "Khách Hàng Nói Gì Về Chúng Tôi",
+      "subtitle": "Lời chứng thực từ các đối tác và khách hàng tin cậy",
+      "backgroundColor": "#F5F5DC",
+      "textColor": "#333333",
+      "colorMode": "custom",
+      "primaryColor": "#8B4513",
+      "titleSize": "2xl",
+      "titleWeight": "bold",
+      "titleFont": "inter",
+      "subtitleSize": "lg",
+      "subtitleWeight": "normal",
+      "subtitleFont": "inter",
+      "testimonials": [
+        {
+          "id": "1",
+          "name": "Sarah Johnson",
+          "image": "https://images.unsplash.com/photo-1494790108755-2616b612b977?w=400&h=400&fit=crop&crop=face",
+          "title": "Quản lý Chuỗi F&B",
+          "rating": 5,
+          "company": "The Daily Grind Co.",
+          "content": "Chất lượng cà phê của Cà Phê Việt Plus thực sự giúp chúng tôi tạo ra sự khác biệt. Hương vị luôn nhất quán, điều này rất quan trọng với chuỗi của chúng tôi."
+        },
+        {
+          "id": "2",
+          "name": "Michael Chen",
+          "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop&crop=face",
+          "title": "Giám đốc Nhập khẩu",
+          "rating": 5,
+          "company": "Asia Coffee Traders",
+          "content": "Là đối tác xuất khẩu, Cà Phê Việt Plus luôn thể hiện sự chuyên nghiệp trong mọi khâu. Họ hiểu rõ tiêu chuẩn quốc tế và đáp ứng đúng cam kết."
+        },
+        {
+          "id": "3",
+          "name": "David Rodriguez",
+          "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop&crop=face",
+          "title": "CEO",
+          "rating": 5,
+          "company": "Bean & Brew",
+          "content": "Dịch vụ OEM tại đây rất tuyệt vời. Chúng tôi đã xây dựng thành công dòng sản phẩm Private Label của riêng mình nhờ sự hỗ trợ kỹ thuật từ đội ngũ chuyên gia."
+        }
+      ],
+      "partners": [
+        "Đối tác A",
+        "Đối tác B",
+        "Đối tác C",
+        "Đối tác D",
+        "Đối tác E",
+        "Đối tác F"
+      ],
+      "stats": [
+        {
+          "label": "Lô hàng",
+          "number": "500+",
+          "sublabel": "Chất lượng cao"
+        },
+        {
+          "label": "Khách hàng",
+          "number": "200+",
+          "sublabel": "Tin tưởng"
+        },
+        {
+          "label": "Năm kinh nghiệm",
+          "number": "15+",
+          "sublabel": "Thị trường"
+        },
+        {
+          "label": "Tỷ lệ hài lòng",
+          "number": "98%",
+          "sublabel": "Khách hàng"
+        }
+      ]
+    },
+    "leadMagnet": {
+      "title": "Mở Khóa Tiềm Năng Thị Trường Cà Phê Đặc Sản",
+      "colorMode": "custom",
+      "formTitle": "Tải về Hướng dẫn Miễn Phí",
+      "textColor": "#121212",
+      "buttonText": "Tải về Hướng dẫn Miễn Phí Ngay",
+      "guideTitle": "Hướng Dẫn Toàn Diện",
+      "description": "Tải về tài liệu độc quyền của Cà Phê Việt Plus: Hướng dẫn toàn diện về quy trình rang xay và xuất khẩu Specialty Coffee Việt Nam.",
+      "guideFeatures": [
+        {
+          "icon": "FileText",
+          "title": "Quy trình rang chuẩn SCA",
+          "description": "Các bước rang xay theo tiêu chuẩn quốc tế."
+        },
+        {
+          "icon": "TrendingUp",
+          "title": "Phân tích thị trường xuất khẩu",
+          "description": "Cập nhật xu hướng và yêu cầu thị trường mới nhất."
+        },
+        {
+          "icon": "Shield",
+          "title": "Tiêu chuẩn chất lượng",
+          "description": "Checklist đánh giá chất lượng hạt cà phê."
+        },
+        {
+          "icon": "CheckCircle",
+          "title": "Logistics và chứng nhận",
+          "description": "Hướng dẫn chi tiết về thủ tục xuất khẩu."
+        }
+      ],
+      "guideSubtitle": "Quy trình sản xuất và xuất khẩu cà phê chất lượng cao 2025",
+      "backgroundColor": "#F8F9FA",
+      "formDescription": "Nhập thông tin bên dưới để nhận tài liệu ngay lập tức và tìm hiểu bí quyết thành công trong ngành.",
+      "trustIndicators": [
+        {
+          "label": "Lượt tải",
+          "number": "5,000+"
+        },
+        {
+          "label": "Tỷ lệ hài lòng",
+          "number": "92%"
+        },
+        {
+          "label": "Đánh giá người dùng",
+          "number": "4.9/5"
+        }
+      ]
+    },
+    "whyChooseUs": {
+      "cta": {
+        "title": "Bắt đầu hành trình cà phê chất lượng cùng chúng tôi",
+        "buttonText": "Liên hệ ngay",
+        "description": "Liên hệ ngay để nhận mẫu thử cà phê và tư vấn giải pháp kinh doanh."
+      },
+      "title": "Tại Sao Chọn Cà Phê Việt Plus?",
+      "vision": {
+        "title": "Tầm Nhìn",
+        "description": "Trở thành thương hiệu dẫn đầu trong lĩnh vực Specialty Coffee tại Việt Nam, là đối tác xuất khẩu cà phê uy tín được tin cậy bởi các nhà nhập khẩu quốc tế."
+      },
+      "mission": {
+        "title": "Sứ Mệnh",
+        "description": "Sứ mệnh của chúng tôi là nâng tầm giá trị cà phê Việt Nam trên thị trường toàn cầu thông qua việc sản xuất và cung cấp các sản phẩm cà phê rang xay chất lượng cao, minh bạch và bền vững."
+      },
+      "subtitle": "Chúng tôi cam kết mang đến sự khác biệt qua chất lượng, quy trình và sự tận tâm.",
+      "colorMode": "custom",
+      "strengths": [
+        {
+          "icon": "Award",
+          "title": "Chất lượng vượt trội",
+          "description": "Nguyên liệu được tuyển chọn từ các vùng trồng uy tín, rang xay theo tiêu chuẩn quốc tế."
+        },
+        {
+          "icon": "Globe",
+          "title": "Kinh nghiệm xuất khẩu",
+          "description": "Hiểu biết sâu sắc về thị trường quốc tế và thủ tục xuất khẩu."
+        },
+        {
+          "icon": "Users",
+          "title": "Dịch vụ chuyên nghiệp",
+          "description": "Đội ngũ tư vấn kỹ thuật và kinh doanh tận tâm, am hiểu sản phẩm."
+        },
+        {
+          "icon": "Shield",
+          "title": "Quy trình kiểm soát",
+          "description": "Hệ thống quản lý chất lượng từ nông trại đến thành phẩm."
+        },
+        {
+          "icon": "Clock",
+          "title": "Đảm bảo nguồn cung",
+          "description": "Ổn định nguồn cung quanh năm, đáp ứng đơn hàng lớn và nhỏ."
+        },
+        {
+          "icon": "TrendingUp",
+          "title": "Giải pháp tối ưu",
+          "description": "Hỗ trợ đối tác phát triển kinh doanh bền vững."
+        }
+      ],
+      "textColor": "#333333",
+      "backgroundColor": "#FFFFFF"
+    }
+  }
+}
