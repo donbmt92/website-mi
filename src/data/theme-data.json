@@ -1,6 +1,6 @@
 {
   "colors": {
-    "primary": "#8B4513",
+    "primary": "#D2691E",
     "secondary": "#A0522D",
     "accent": "#FFD700",
     "background": "#FFFFFF",
@@ -10,10 +10,10 @@
   "typography": {
     "fontFamily": "Inter",
     "fontSize": "16px",
-    "headingSize": "xl",
+    "headingSize": "lg",
     "bodySize": "base",
     "lineHeight": "1.6",
-    "fontWeight": "400"
+    "fontWeight": "600"
   },
   "layout": {
     "containerWidth": "1200px",
@@ -48,11 +48,11 @@
       "keywords": "cà phê việt nam, xuất khẩu cà phê, robusta, arabica"
     },
     "header": {
-      "title": "Cà Phê Việt Plus",
-      "subtitle": "Nâng tầm cà phê Việt trên bản đồ thế giới",
+      "title": "Bánh Mì Phố Xưa",
+      "subtitle": "Hương Vị Truyền Thống, Chất Lượng Vượt Trội",
       "backgroundColor": "#FFFFFF",
-      "textColor": "#1d1916",
-      "logo": "/uploads/1768400430547-vcdntickrf.png",
+      "textColor": "#D2691E",
+      "logo": "/assets/logo.png",
       "logoSize": "medium",
       "colorMode": "custom",
       "primaryColor": "#8B4513",
@@ -79,31 +79,31 @@
         }
       ],
       "ctaButton": {
-        "href": "#contact",
-        "text": "Nhận báo giá",
+        "href": "#products",
+        "text": "Đặt Hàng Ngay",
         "style": "primary"
       },
       "socialLinks": [
         {
-          "url": "https://facebook.com/caphevietplus",
+          "url": "https://facebook.com/banhmiphoXua",
           "icon": "Facebook",
           "platform": "facebook"
         },
         {
-          "url": "https://linkedin.com/company/caphevietplus",
-          "icon": "Linkedin",
-          "platform": "linkedin"
+          "url": "https://instagram.com/banhmiphoXua",
+          "icon": "Instagram",
+          "platform": "instagram"
         }
       ]
     },
     "hero": {
-      "title": "Chuyên Gia Rang Xay & Xuất Khẩu Cà Phê Đặc Sản Việt Nam",
-      "subtitle": "Chất lượng từ Tây Nguyên, vươn tầm quốc tế",
-      "description": "Cà Phê Việt Plus cung cấp cà phê chất lượng cao, được tuyển chọn kỹ lưỡng từ các vùng trồng uy tín, áp dụng công nghệ rang hiện đại để giữ trọn hương vị nguyên bản và bền vững.",
-      "ctaText": "Khám phá Sản phẩm",
-      "ctaSecondaryText": "Liên hệ Tư vấn",
-      "image": "/assets/hero-image.jpg",
-      "titleSize": "base",
+      "title": "Bánh Mì Việt Nam Chuẩn Vị Truyền Thống",
+      "subtitle": "Hương vị quen thuộc, chất lượng không đổi",
+      "description": "Bánh Mì Phố Xưa mang đến trải nghiệm ẩm thực Việt Nam đích thực với công thức gia truyền, nguyên liệu tươi mới mỗi ngày và quy trình chế biến hợp vệ sinh.",
+      "ctaText": "Khám Phá Thực Đơn",
+      "ctaSecondaryText": "Xem Ưu Đãi",
+      "image": "/assets/hero-banhmi.jpg",
+      "titleSize": "xl",
       "subtitleSize": "lg",
       "descriptionSize": "base",
       "benefitsSize": "base",
@@ -123,60 +123,59 @@
       "statsFont": "inter",
       "benefits": [
         {
-          "icon": "CheckCircle",
-          "text": "Cà phê nguyên chất 100%"
+          "icon": "Utensils",
+          "text": "Công thức gia truyền"
         },
         {
-          "icon": "Shield",
-          "text": "Kiểm soát chất lượng nghiêm ngặt"
+          "icon": "Leaf",
+          "text": "Nguyên liệu tươi mới"
         },
         {
-          "icon": "Truck",
-          "text": "Giải pháp xuất khẩu toàn diện"
+          "icon": "BadgeCheck",
+          "text": "Vệ sinh an toàn thực phẩm"
         }
       ],
       "stats": [
         {
-          "label": "Tấn cà phê",
-          "number": "500+"
-        },
-        {
           "label": "Năm kinh nghiệm",
-          "number": "5+"
+          "number": "10+"
         },
         {
-          "label": "Quốc gia",
-          "number": "30+"
+          "label": "Bánh mì mỗi ngày",
+          "number": "5000+"
+        },
+        {
+          "label": "Hài lòng khách hàng",
+          "number": "100%"
         }
-      ],
-      "backgroundImage": "/uploads/1768400444709-rbleufrrlp.png"
+      ]
     },
     "about": {
-      "title": "Về Chúng Tôi ",
-      "description": "Cà Phê Việt Plus là doanh nghiệp tiên phong trong việc sản xuất, rang xay và phân phối cà phê đặc sản Việt Nam. Chúng tôi cam kết mang đến những hạt cà phê chất lượng cao nhất, được tuyển chọn từ các vùng trồng cà phê Arabica và Robusta danh tiếng của Tây Nguyên và Lâm Đồng. Với công nghệ rang xay tiên tiến và quy trình kiểm soát chất lượng chặt chẽ, chúng tôi tự hào là đối tác tin cậy cho các nhà phân phối, chuỗi F&B và khách hàng cá nhân trên toàn ",
-      "image": "/assets/about-image.jpg",
+      "title": "Về Bánh Mì Phố Xưa",
+      "description": "Bánh Mì Phố Xưa được thành lập với mong muốn gìn giữ và phát triển tinh hoa ẩm thực Việt Nam qua món bánh mì. Chúng tôi tự hào là nơi cung cấp những chiếc bánh mì không chỉ nhanh gọn, tiện lợi mà còn giữ trọn vẹn hương vị đặc trưng, thơm ngon từ những nguyên liệu được tuyển chọn kỹ lưỡng.",
+      "image": "/assets/about-banhmi.jpg",
       "features": [
         {
-          "icon": "Award",
-          "title": "Tuyển chọn nguyên liệu",
-          "description": "Thu hoạch và tuyển chọn thủ công những hạt cà phê tốt nhất."
+          "icon": "BookOpen",
+          "title": "Công Thức Gia Truyền",
+          "description": "Bí quyết gia truyền được lưu giữ qua nhiều thế hệ, tạo nên hương vị độc đáo không thể nhầm lẫn."
         },
         {
-          "icon": "Globe",
-          "title": "Rang xay công nghệ cao",
-          "description": "Sử dụng máy rang hiện đại, kiểm soát nhiệt độ và thời gian chính xác."
+          "icon": "CalendarCheck",
+          "title": "Nguyên Liệu Tươi Mới",
+          "description": "Cam kết sử dụng nguyên liệu trong ngày, đảm bảo độ tươi ngon và an toàn tối đa cho khách hàng."
         },
         {
           "icon": "Users",
-          "title": "Đội ngũ chuyên gia",
-          "description": "Đội ngũ Q-Grader và Master Roaster giàu kinh nghiệm."
+          "title": "Đội Ngũ Tận Tâm",
+          "description": "Đội ngũ nhân viên được đào tạo chuyên nghiệp, phục vụ nhanh chóng và chu đáo."
         }
       ]
     },
     "problems": {
-      "title": "Những Thách Thức Bạn Đang Đối Mặt?",
-      "description": "Chúng tôi hiểu những khó khăn mà các doanh nghiệp trong ngành cà phê đang gặp phải khi tìm kiếm nguồn cung ổn định và chất lượng cao.",
-      "backgroundColor": "#e0dfdc",
+      "title": "Thách Thức Khi Tìm Bánh Mì Ngon",
+      "description": "Nhiều người gặp khó khăn khi tìm kiếm một tiệm bánh mì đáp ứng đủ các tiêu chí: ngon, sạch và nhanh.",
+      "backgroundColor": "#FFF8DC",
       "textColor": "#333333",
       "colorMode": "custom",
       "primaryColor": "#8B4513",
@@ -194,36 +193,36 @@
         {
           "id": "1",
           "icon": "AlertTriangle",
-          "title": "Chất lượng không đồng đều",
-          "description": "Khó khăn trong việc tìm kiếm nguồn nguyên liệu đầu vào có chất lượng ổn định theo từng lô hàng."
+          "title": "Hương Vị Không Đồng Nhất",
+          "description": "Khó tìm được nơi có hương vị bánh mì ổn định, không bị thay đổi theo thời gian."
         },
         {
           "id": "2",
-          "icon": "Clock",
-          "title": "Quy trình rang xay thiếu chuyên nghiệp",
-          "description": "Rang xay không chuẩn, dẫn đến hương vị cà phê không đạt yêu cầu hoặc bị biến đổi qua thời gian."
+          "icon": "XCircle",
+          "title": "Nguyên Liệu Kém Chất Lượng",
+          "description": "Lo ngại về nguồn gốc thực phẩm, thịt nguội, pate không đảm bảo vệ sinh."
         },
         {
           "id": "3",
-          "icon": "DollarSign",
-          "title": "Thị trường xuất khẩu phức tạp",
-          "description": "Rào cản về thủ tục, chứng nhận và logistics khi muốn đưa cà phê ra thị trường quốc tế."
+          "icon": "Clock",
+          "title": "Thời Gian Chờ Đợi Lâu",
+          "description": "Đối với dân văn phòng và học sinh, thời gian chờ đợi quá lâu là một trở ngại lớn."
         },
         {
           "id": "4",
-          "icon": "Truck",
-          "title": "Thiếu sự linh hoạt trong sản xuất",
-          "description": "Các nhà cung cấp không đáp ứng được yêu cầu về rang xay theo nhãn hiệu riêng (OEM/Private Label)."
+          "icon": "MinusCircle",
+          "title": "Bánh Mì Không Đủ No",
+          "description": "Kích thước bánh mì quá nhỏ, không đủ dinh dưỡng cho một bữa ăn chính."
         }
       ]
     },
     "solutions": {
-      "title": "Giải Pháp Cà Phê Việt Plus",
-      "description": "Chúng tôi cung cấp các giải pháp toàn diện để giải quyết những thách thức trên, đảm bảo sự phát triển bền vững cho đối tác.",
-      "backgroundColor": "#253d55",
-      "textColor": "#b82e2e",
+      "title": "Giải Pháp Từ Bánh Mì Phố Xưa",
+      "description": "Chúng tôi đã tối ưu hóa mọi khâu để mang đến trải nghiệm tốt nhất cho thực khách.",
+      "backgroundColor": "#F0F8FF",
+      "textColor": "#333333",
       "colorMode": "custom",
-      "primaryColor": "#df9862",
+      "primaryColor": "#8B4513",
       "titleSize": "2xl",
       "descriptionSize": "base",
       "titleWeight": "bold",
@@ -239,47 +238,47 @@
       "items": [
         {
           "id": "1",
-          "icon": "Globe",
-          "title": "Kiểm soát chất lượng chặt chẽ",
-          "benefit": "Hương vị ổn định, chất lượng cao",
-          "description": "Quy trình kiểm định chất lượng nghiêm ngặt từ nông trại, đảm bảo sự đồng nhất tuyệt đối cho mọi lô hàng."
+          "icon": "BookOpen",
+          "title": "Công Thức Chuẩn Hóa",
+          "benefit": "Hương vị đậm đà, không thay đổi.",
+          "description": "Áp dụng công thức gia truyền được chuẩn hóa cho mọi chi nhánh, đảm bảo hương vị luôn nhất quán."
         },
         {
           "id": "2",
-          "icon": "Shield",
-          "title": "Công nghệ rang xay hiện đại",
-          "benefit": "Hương vị cà phê chuẩn xác, hấp dẫn",
-          "description": "Sử dụng hệ thống rang xay tiên tiến, giúp tối ưu hóa hương vị tự nhiên của từng loại hạt cà phê."
+          "icon": "ShieldCheck",
+          "title": "Kiểm Soát Nguyên Liệu Nghiêm Ngặt",
+          "benefit": "An toàn tuyệt đối cho sức khỏe người tiêu dùng.",
+          "description": "Chỉ nhập nguyên liệu tươi mới mỗi ngày từ các nhà cung cấp uy tín, đảm bảo an toàn thực phẩm."
         },
         {
           "id": "3",
           "icon": "Zap",
-          "title": "Hỗ trợ xuất khẩu trọn gói",
-          "benefit": "Mở rộng thị trường quốc tế dễ dàng",
-          "description": "Chuyên gia logistics và pháp lý sẵn sàng hỗ trợ mọi thủ tục xuất khẩu, đảm bảo hàng hóa đến nơi an toàn và đúng hạn."
+          "title": "Phục Vụ Tốc Độ Cao",
+          "benefit": "Tiết kiệm thời gian quý báu cho khách hàng.",
+          "description": "Quy trình chuẩn bị nhanh chóng, tối ưu hóa cho dịch vụ mang đi (take-away)."
         },
         {
           "id": "4",
           "icon": "Package",
-          "title": "Dịch vụ OEM linh hoạt",
-          "benefit": "Xây dựng thương hiệu riêng mạnh mẽ",
-          "description": "Cung cấp dịch vụ gia công theo yêu cầu với khả năng tùy biến cao về hồ sơ rang và đóng gói thương hiệu riêng."
+          "title": "Bánh Mì Đầy Đặn",
+          "benefit": "Bữa ăn no bụng, chất lượng.",
+          "description": "Mỗi chiếc bánh mì được làm với lượng nhân đầy đủ, đảm bảo dinh dưỡng và sự hài lòng."
         }
       ]
     },
     "cta": {
-      "title": "Sẵn Sàng Nâng Cấp Chất Lượng Cà Phê Của Bạn?",
-      "description": "Đừng bỏ lỡ cơ hội hợp tác với nhà cung cấp cà phê uy tín hàng đầu Việt Nam. Hãy để chúng tôi giúp bạn tạo ra những sản phẩm cà phê tuyệt vời.",
-      "buttonText": "Yêu cầu tư vấn ngay",
-      "buttonSecondaryText": "Xem danh mục sản phẩm",
-      "backgroundColor": "#8B4513",
+      "title": "Sẵn Sàng Thưởng Thức Hương Vị Truyền Thống?",
+      "description": "Đặt hàng ngay hôm nay để trải nghiệm sự khác biệt của Bánh Mì Phố Xưa. Chúng tôi phục vụ mọi đối tượng khách hàng từ cá nhân đến sự kiện.",
+      "buttonText": "Xem Thực Đơn",
+      "buttonSecondaryText": "Đặt Sự Kiện",
+      "backgroundColor": "#D2691E",
       "textColor": "#FFFFFF",
-      "image": "/assets/cta-image.jpg"
+      "image": "/assets/cta-banhmi.jpg"
     },
     "products": {
-      "title": "Sản Phẩm & Dịch Vụ",
-      "description": "Cung cấp giải pháp cà phê toàn diện từ hạt rang đến tư vấn chuyên sâu cho các đối tác kinh doanh.",
-      "backgroundColor": "#F0F4F8",
+      "title": "Thực Đơn Đặc Sắc",
+      "description": "Khám phá những lựa chọn bánh mì làm nên thương hiệu Bánh Mì Phố Xưa, từ truyền thống đến sáng tạo.",
+      "backgroundColor": "#F5F5DC",
       "textColor": "#333333",
       "colorMode": "custom",
       "primaryColor": "#8B4513",
@@ -292,85 +291,78 @@
       "items": [
         {
           "id": "1",
-          "name": "Cà Phê Hạt Rang (Arabica, Robusta, Blend)",
-          "image": "/assets/product-1.jpg",
-          "price": "Liên hệ",
-          "category": "Cà phê hạt",
+          "name": "Bánh Mì Thịt Truyền Thống",
+          "image": "/assets/product-traditional.jpg",
+          "price": "Từ 25.000 VNĐ",
+          "category": "Bánh Mì Truyền Thống",
           "features": [
-            "Rang mộc theo yêu cầu",
-            "Độ rang tùy chỉnh",
-            "Đóng gói chuyên nghiệp"
+            "Thịt nguội đặc biệt",
+            "Pate gia truyền",
+            "Đồ chua giòn ngon"
           ],
-          "description": "Các dòng cà phê hạt rang xay sẵn, phù hợp với nhiều phương pháp pha chế khác nhau, đảm bảo hương vị tươi mới và độ đồng nhất cao."
+          "description": "Sự kết hợp hoàn hảo giữa thịt nguội chất lượng, chả lụa thơm ngon, pate béo ngậy và rau thơm tươi mát."
         },
         {
           "id": "2",
-          "name": "Cà Phê Bột Nguyên Chất",
-          "image": "/assets/product-2.jpg",
-          "price": "Liên hệ",
-          "category": "Cà phê bột",
+          "name": "Bánh Mì Chả, Pate, Xíu Mại",
+          "image": "/assets/product-xiumai.jpg",
+          "price": "Từ 30.000 VNĐ",
+          "category": "Bánh Mì Đặc Biệt",
           "features": [
-            "Xay theo yêu cầu",
-            "Đóng gói bảo quản tối ưu",
-            "Hương vị đậm đà"
+            "Xíu mại tự làm",
+            "Chả chiên giòn",
+            "Nước sốt đậm đà"
           ],
-          "description": "Cà phê xay sẵn theo tiêu chuẩn xay của khách hàng (Espresso, Phin, Cold Brew...), giữ trọn hương thơm và độ tươi mới."
+          "description": "Hương vị đậm đà với chả chiên giòn, xíu mại nóng hổi và lớp pate béo ngậy đặc trưng."
         },
         {
           "id": "3",
-          "name": "Cà Phê Đặc Sản (Specialty Coffee)",
-          "image": "/assets/product-3.jpg",
-          "price": "Liên hệ",
-          "category": "Cà phê đặc sản",
+          "name": "Bánh Mì Đặc Biệt Combo",
+          "image": "/assets/product-combo.jpg",
+          "price": "Từ 45.000 VNĐ",
+          "category": "Combo Ưu Đãi",
           "features": [
-            "Nguồn gốc rõ ràng",
-            "Hồ sơ hương vị chi tiết",
-            "Chứng nhận chất lượng"
+            "Thịt, chả, pate, trứng",
+            "Kích thước lớn",
+            "Kèm sữa đậu nành"
           ],
-          "description": "Các dòng cà phê chất lượng cao, được đánh giá trên 80 điểm SCA, mang đến trải nghiệm hương vị phức tạp và độc đáo."
+          "description": "Combo bánh mì đầy đủ nhất, bao gồm tất cả các loại nhân đặc trưng và đồ uống kèm theo."
         }
       ],
       "services": [
         {
           "id": "1",
-          "cta": "Tìm hiểu thêm",
-          "icon": "Package",
-          "name": "Gia công OEM/Private Label",
-          "description": "Cung cấp dịch vụ rang xay, đóng gói theo thương hiệu riêng của quý khách hàng với tiêu chuẩn chất lượng cao."
+          "cta": "Xem chi tiết",
+          "icon": "Coffee",
+          "name": "Đồ Uống Kèm",
+          "description": "Sữa đậu nành tươi, nước ngọt các loại, phục vụ kèm bánh mì."
         },
         {
           "id": "2",
-          "cta": "Tìm hiểu thêm",
-          "icon": "Users",
-          "name": "Tư vấn Setup Menu & Nguồn Cung",
-          "description": "Hỗ trợ chuỗi F&B xây dựng menu cà phê độc đáo và tối ưu hóa nguồn cung ổn định."
+          "cta": "Yêu cầu báo giá",
+          "icon": "Package",
+          "name": "Đặt Hàng Số Lượng Lớn",
+          "description": "Nhận đặt bánh mì cho các sự kiện, hội họp nhỏ với mức giá ưu đãi."
         },
         {
           "id": "3",
-          "cta": "Tìm hiểu thêm",
-          "icon": "Globe",
-          "name": "Xuất khẩu cà phê",
-          "description": "Hỗ trợ thủ tục và logistics xuất khẩu cà phê Việt Nam ra thị trường quốc tế."
-        },
-        {
-          "id": "4",
-          "cta": "Tìm hiểu thêm",
-          "icon": "TrendingUp",
-          "name": "Hợp tác phân phối",
-          "description": "Chương trình hợp tác phân phối cho các nhà nhập khẩu và đại lý tại thị trường nội địa và quốc tế."
+          "cta": "Tìm chi nhánh gần nhất",
+          "icon": "Clock",
+          "name": "Take-Away Nhanh Gọn",
+          "description": "Quy trình phục vụ tối ưu cho khách hàng bận rộn, đảm bảo thời gian chờ đợi ngắn nhất."
         }
       ]
     },
     "footer": {
-      "companyName": "Cà Phê Việt Plus",
-      "description": "Chuyên cung cấp Sản xuất & rang xay cà phê, Phân phối cà phê đặc sản, Thương mại điện tử cà phê, và Xuất khẩu cà phê Việt Nam chất lượng cao cho thị trường quốc tế.",
-      "backgroundColor": "#8B4513",
-      "textColor": "#F9FAFB",
+      "companyName": "Bánh Mì Phố Xưa",
+      "description": "Chuyên cung cấp bánh mì Việt Nam truyền thống, chất lượng cao cho mọi thực khách.",
+      "backgroundColor": "#A0522D",
+      "textColor": "#FFFFFF",
       "contact": {
         "phone": "+84 123 456 789",
-        "email": "info@caphevietplus.vn",
-        "address": "123 Đường ABC, Quận 1, TP. Hồ Chí Minh, Việt Nam",
-        "businessHours": "Thứ 2-Thứ 6: 8AM-6PM"
+        "email": "lienhe@banhmiphoXua.vn",
+        "address": "Tầng 5, Tòa nhà ABC, Quận 1, TP.HCM",
+        "businessHours": "Thứ 2 - Chủ Nhật: 6AM - 10PM"
       },
       "quickLinks": [
         {
@@ -380,10 +372,6 @@
         {
           "href": "#products",
           "name": "Sản phẩm"
-        },
-        {
-          "href": "#services",
-          "name": "Dịch vụ"
         },
         {
           "href": "#about",
@@ -396,12 +384,12 @@
       ],
       "resources": [
         {
-          "href": "#docs",
-          "name": "Tài liệu"
+          "href": "#menu",
+          "name": "Thực đơn chi tiết"
         },
         {
           "href": "#support",
-          "name": "Hỗ trợ"
+          "name": "Hỗ trợ khách hàng"
         },
         {
           "href": "#faq",
@@ -416,14 +404,6 @@
         {
           "href": "#terms",
           "name": "Điều Khoản Dịch Vụ"
-        },
-        {
-          "href": "#cookies",
-          "name": "Chính Sách Cookie"
-        },
-        {
-          "href": "#compliance",
-          "name": "Tuân Thủ"
         }
       ],
       "socialLinks": [
@@ -441,24 +421,18 @@
           "href": "#",
           "icon": "Linkedin",
           "label": "LinkedIn"
-        },
-        {
-          "href": "#",
-          "icon": "Youtube",
-          "label": "YouTube"
         }
       ],
-      "colorMode": "theme",
       "newsletter": {
-        "title": "Đăng ký nhận tin",
+        "title": "Đăng ký nhận ưu đãi",
         "buttonText": "Đăng ký",
-        "description": "Nhận thông tin cập nhật về sản phẩm mới và thị trường cà phê.",
+        "description": "Cập nhật các chương trình khuyến mãi mới nhất.",
         "placeholder": "Nhập email của bạn"
       }
     },
     "testimonials": {
-      "title": "Khách Hàng Nói Gì Về Chúng Tôi",
-      "subtitle": "Lời chứng thực từ các đối tác và khách hàng tin cậy",
+      "title": "Khách Hàng Nói Gì Về Bánh Mì Phố Xưa",
+      "subtitle": "Những đánh giá chân thực từ học sinh, sinh viên và dân văn phòng.",
       "backgroundColor": "#F5F5DC",
       "textColor": "#333333",
       "colorMode": "custom",
@@ -472,158 +446,150 @@
       "testimonials": [
         {
           "id": "1",
-          "name": "Sarah Johnson",
-          "image": "https://images.unsplash.com/photo-1494790108755-2616b612b977?w=400&h=400&fit=crop&crop=face",
-          "title": "Quản lý Chuỗi F&B",
+          "name": "Nguyễn Văn A",
+          "image": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=400&h=400&fit=crop&crop=face",
+          "title": "Nhân viên văn phòng",
           "rating": 5,
-          "company": "The Daily Grind Co.",
-          "content": "Chất lượng cà phê của Cà Phê Việt Plus thực sự giúp chúng tôi tạo ra sự khác biệt. Hương vị luôn nhất quán, điều này rất quan trọng với chuỗi của chúng tôi."
+          "company": "Công ty XYZ",
+          "content": "Bánh mì ở đây luôn là lựa chọn hàng đầu cho bữa trưa nhanh gọn. Pate rất ngon và thịt đầy đặn."
         },
         {
           "id": "2",
-          "name": "Michael Chen",
-          "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop&crop=face",
-          "title": "Giám đốc Nhập khẩu",
+          "name": "Trần Thị B",
+          "image": "https://images.unsplash.com/photo-1529626455594-4ff080252c4b?w=400&h=400&fit=crop&crop=face",
+          "title": "Sinh viên",
           "rating": 5,
-          "company": "Asia Coffee Traders",
-          "content": "Là đối tác xuất khẩu, Cà Phê Việt Plus luôn thể hiện sự chuyên nghiệp trong mọi khâu. Họ hiểu rõ tiêu chuẩn quốc tế và đáp ứng đúng cam kết."
+          "company": "Đại học Quốc Gia",
+          "content": "Giá cả hợp lý, bánh mì to và ngon. Mình thường xuyên mua cho bữa sáng hoặc ăn xế."
         },
         {
           "id": "3",
-          "name": "David Rodriguez",
-          "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop&crop=face",
-          "title": "CEO",
+          "name": "Lê Văn C",
+          "image": "https://images.unsplash.com/photo-1507003211169-0a1ad7e27a8e?w=400&h=400&fit=crop&crop=face",
+          "title": "Quản lý sự kiện",
           "rating": 5,
-          "company": "Bean & Brew",
-          "content": "Dịch vụ OEM tại đây rất tuyệt vời. Chúng tôi đã xây dựng thành công dòng sản phẩm Private Label của riêng mình nhờ sự hỗ trợ kỹ thuật từ đội ngũ chuyên gia."
+          "company": "Công ty Tổ chức Sự kiện",
+          "content": "Chúng tôi đã đặt bánh mì cho sự kiện ngoài trời. Phục vụ chuyên nghiệp, bánh mì tươi ngon và giao hàng đúng giờ."
         }
       ],
       "partners": [
-        "Đối tác A",
-        "Đối tác B",
-        "Đối tác C",
-        "Đối tác D",
-        "Đối tác E",
-        "Đối tác F"
+        "Trường học",
+        "Văn phòng",
+        "Cửa hàng tiện lợi",
+        "Công ty sự kiện"
       ],
       "stats": [
         {
-          "label": "Lô hàng",
-          "number": "500+",
-          "sublabel": "Chất lượng cao"
+          "label": "Khách hàng đặt sự kiện",
+          "number": "1000+"
         },
         {
-          "label": "Khách hàng",
-          "number": "200+",
-          "sublabel": "Tin tưởng"
+          "label": "Chi nhánh",
+          "number": "50+"
         },
         {
-          "label": "Năm kinh nghiệm",
-          "number": "15+",
-          "sublabel": "Thị trường"
+          "label": "Đánh giá tích cực",
+          "number": "99%"
         },
         {
-          "label": "Tỷ lệ hài lòng",
-          "number": "98%",
-          "sublabel": "Khách hàng"
+          "label": "Hỗ trợ đặt hàng",
+          "number": "24/7"
         }
       ]
     },
     "leadMagnet": {
-      "title": "Mở Khóa Tiềm Năng Thị Trường Cà Phê Đặc Sản",
-      "colorMode": "custom",
-      "formTitle": "Tải về Hướng dẫn Miễn Phí",
-      "textColor": "#121212",
-      "buttonText": "Tải về Hướng dẫn Miễn Phí Ngay",
-      "guideTitle": "Hướng Dẫn Toàn Diện",
-      "description": "Tải về tài liệu độc quyền của Cà Phê Việt Plus: Hướng dẫn toàn diện về quy trình rang xay và xuất khẩu Specialty Coffee Việt Nam.",
+      "title": "Tải Về Cẩm Nang Ẩm Thực Đường Phố Việt Nam",
+      "formTitle": "Nhận Cẩm Nang Miễn Phí",
+      "textColor": "#333333",
+      "buttonText": "Tải Về Ngay",
+      "guideTitle": "Cẩm Nang Bánh Mì Việt Nam",
+      "description": "Nhận ngay cẩm nang chi tiết về các món ăn đường phố được yêu thích nhất tại Việt Nam, bao gồm cả các mẹo thưởng thức bánh mì chuẩn vị.",
       "guideFeatures": [
         {
           "icon": "FileText",
-          "title": "Quy trình rang chuẩn SCA",
-          "description": "Các bước rang xay theo tiêu chuẩn quốc tế."
+          "title": "Lịch sử Bánh Mì",
+          "description": "Tìm hiểu nguồn gốc và sự phát triển của món ăn."
         },
         {
           "icon": "TrendingUp",
-          "title": "Phân tích thị trường xuất khẩu",
-          "description": "Cập nhật xu hướng và yêu cầu thị trường mới nhất."
+          "title": "Xu hướng Ẩm thực",
+          "description": "Phân tích xu hướng bánh mì hiện đại."
         },
         {
           "icon": "Shield",
-          "title": "Tiêu chuẩn chất lượng",
-          "description": "Checklist đánh giá chất lượng hạt cà phê."
+          "title": "Tiêu chuẩn Vệ Sinh",
+          "description": "Các tiêu chuẩn vệ sinh cần thiết cho kinh doanh."
         },
         {
           "icon": "CheckCircle",
-          "title": "Logistics và chứng nhận",
-          "description": "Hướng dẫn chi tiết về thủ tục xuất khẩu."
+          "title": "Công thức cơ bản",
+          "description": "Bí quyết làm pate và đồ chua cơ bản."
         }
       ],
-      "guideSubtitle": "Quy trình sản xuất và xuất khẩu cà phê chất lượng cao 2025",
+      "guideSubtitle": "Phiên bản 2024 - Hướng dẫn từ A-Z",
       "backgroundColor": "#F8F9FA",
-      "formDescription": "Nhập thông tin bên dưới để nhận tài liệu ngay lập tức và tìm hiểu bí quyết thành công trong ngành.",
+      "formDescription": "Vui lòng điền thông tin để nhận tài liệu ngay lập tức.",
       "trustIndicators": [
         {
-          "label": "Lượt tải",
-          "number": "5,000+"
+          "label": "Lượt tải cẩm nang",
+          "number": "10,000+"
         },
         {
-          "label": "Tỷ lệ hài lòng",
-          "number": "92%"
+          "label": "Đánh giá 5 sao",
+          "number": "95%"
         },
         {
-          "label": "Đánh giá người dùng",
-          "number": "4.9/5"
+          "label": "Khách hàng đặt sự kiện",
+          "number": "500+"
         }
       ]
     },
     "whyChooseUs": {
       "cta": {
-        "title": "Bắt đầu hành trình cà phê chất lượng cùng chúng tôi",
-        "buttonText": "Liên hệ ngay",
-        "description": "Liên hệ ngay để nhận mẫu thử cà phê và tư vấn giải pháp kinh doanh."
+        "title": "Trải Nghiệm Ngay Hôm Nay!",
+        "buttonText": "Tìm Chi Nhánh Gần Nhất",
+        "description": "Hãy ghé thăm chi nhánh gần nhất hoặc đặt hàng trực tuyến để thưởng thức hương vị tuyệt vời."
       },
-      "title": "Tại Sao Chọn Cà Phê Việt Plus?",
+      "title": "Lý Do Khách Hàng Tin Chọn Bánh Mì Phố Xưa",
       "vision": {
         "title": "Tầm Nhìn",
-        "description": "Trở thành thương hiệu dẫn đầu trong lĩnh vực Specialty Coffee tại Việt Nam, là đối tác xuất khẩu cà phê uy tín được tin cậy bởi các nhà nhập khẩu quốc tế."
+        "description": "Trở thành chuỗi bánh mì hàng đầu được yêu thích nhất tại Việt Nam về chất lượng và hương vị."
       },
       "mission": {
         "title": "Sứ Mệnh",
-        "description": "Sứ mệnh của chúng tôi là nâng tầm giá trị cà phê Việt Nam trên thị trường toàn cầu thông qua việc sản xuất và cung cấp các sản phẩm cà phê rang xay chất lượng cao, minh bạch và bền vững."
+        "description": "Mang hương vị bánh mì Việt Nam truyền thống đến mọi thực khách, góp phần giữ gìn nét đẹp văn hóa ẩm thực."
       },
-      "subtitle": "Chúng tôi cam kết mang đến sự khác biệt qua chất lượng, quy trình và sự tận tâm.",
-      "colorMode": "custom",
+      "subtitle": "Chúng tôi không chỉ bán bánh mì, chúng tôi mang đến trải nghiệm ẩm thực Việt Nam đích thực.",
       "strengths": [
         {
-          "icon": "Award",
-          "title": "Chất lượng vượt trội",
-          "description": "Nguyên liệu được tuyển chọn từ các vùng trồng uy tín, rang xay theo tiêu chuẩn quốc tế."
+          "icon": "BookOpen",
+          "title": "Bí Quyết Gia Truyền",
+          "description": "Giữ trọn hương vị truyền thống qua các công thức được bảo tồn qua nhiều năm."
         },
         {
-          "icon": "Globe",
-          "title": "Kinh nghiệm xuất khẩu",
-          "description": "Hiểu biết sâu sắc về thị trường quốc tế và thủ tục xuất khẩu."
+          "icon": "Leaf",
+          "title": "Nguyên Liệu Tươi Mỗi Ngày",
+          "description": "Cam kết về nguồn gốc và độ tươi ngon của mọi thành phần."
         },
         {
-          "icon": "Users",
-          "title": "Dịch vụ chuyên nghiệp",
-          "description": "Đội ngũ tư vấn kỹ thuật và kinh doanh tận tâm, am hiểu sản phẩm."
-        },
-        {
-          "icon": "Shield",
-          "title": "Quy trình kiểm soát",
-          "description": "Hệ thống quản lý chất lượng từ nông trại đến thành phẩm."
+          "icon": "BadgeCheck",
+          "title": "Vệ Sinh An Toàn Thực Phẩm",
+          "description": "Quy trình chế biến khép kín, đạt chuẩn vệ sinh nghiêm ngặt."
         },
         {
           "icon": "Clock",
-          "title": "Đảm bảo nguồn cung",
-          "description": "Ổn định nguồn cung quanh năm, đáp ứng đơn hàng lớn và nhỏ."
+          "title": "Phục Vụ Nhanh Chóng",
+          "description": "Đáp ứng nhu cầu thức ăn nhanh cho học sinh, sinh viên và dân văn phòng."
         },
         {
-          "icon": "TrendingUp",
-          "title": "Giải pháp tối ưu",
-          "description": "Hỗ trợ đối tác phát triển kinh doanh bền vững."
+          "icon": "MapPin",
+          "title": "Vị Trí Thuận Tiện",
+          "description": "Các chi nhánh được đặt tại các vị trí đắc địa, dễ dàng tiếp cận."
+        },
+        {
+          "icon": "DollarSign",
+          "title": "Giá Cả Hợp Lý",
+          "description": "Chất lượng cao đi kèm với mức giá phải chăng, phù hợp với mọi đối tượng."
         }
       ],
       "textColor": "#333333",

@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     description: 'Chuyên cung cấp cà phê Việt Nam chất lượng cao cho thị trường quốc tế',
     images: [
       {
-        url: '/uploads/1768400430547-vcdntickrf.png',
+        url: '/placeholder.jpg',
         width: 1200,
         height: 630,
         alt: 'Cà Phê Việt Nam - Chất Lượng Quốc Tế',
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Cà Phê Việt Nam - Chất Lượng Quốc Tế',
     description: 'Chuyên cung cấp cà phê Việt Nam chất lượng cao cho thị trường quốc tế',
-    images: ['/uploads/1768400430547-vcdntickrf.png'],
+    images: ['/placeholder.jpg'],
   },
   
   // Additional
