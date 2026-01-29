@@ -82,7 +82,7 @@ export default function ProductPage({ slug, language }: ProductPageProps) {
                 <ProductLeadMagnet theme={theme} />
 
                 {/* RFQ Form */}
-                <ProductRFQ theme={theme} />
+                <ProductRFQ theme={theme} content={{}} />
 
                 {/* CTA */}
                 <ProductCTA theme={theme} />
