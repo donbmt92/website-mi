@@ -20,9 +20,10 @@ import themeData from '@/data/theme-data.json'
 
 interface ProductPageProps {
     slug: string
+    language?: string
 }
 
-export default function ProductPage({ slug }: ProductPageProps) {
+export default function ProductPage({ slug, language }: ProductPageProps) {
     // Get product data
     const productData = (productPagesData as any)[slug]
 
@@ -39,7 +40,10 @@ export default function ProductPage({ slug }: ProductPageProps) {
         )
     }
 
-    const theme = themeData as any
+    const theme = {
+        ...(themeData as any),
+        projectLanguage: language || (themeData as any).projectLanguage || 'vietnamese'
+    }
 
     return (
         <>
