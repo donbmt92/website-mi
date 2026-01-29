@@ -1,0 +1,356 @@
+{
+  "phng-thi-u-team-team-arena-gii-php-khng-gian-tp-luyn-chuyn-nghip-tn-nh-sn-xut-xut-khu": {
+    "cta": {
+      "title": "Tối Ưu Hóa Hiệu Suất Đội Tuyển Ngay Hôm Nay",
+      "benefits": [
+        "Đảm bảo tính sẵn sàng của dự án",
+        "Nhận hỗ trợ kỹ thuật chuyên sâu trước bán hàng",
+        "Ký kết hợp đồng xuất khẩu minh bạch, rõ ràng"
+      ],
+      "subtitle": "Liên hệ với chuyên gia của chúng tôi để thiết lập một không gian thi đấu chuyên nghiệp, đảm bảo lợi thế cạnh tranh tối đa cho đối tác của bạn.",
+      "buttonText": "Yêu Cầu Tư Vấn Giải Pháp"
+    },
+    "oem": {
+      "title": "Năng Lực OEM/ODM Toàn Diện",
+      "capabilities": [
+        {
+          "icon": "Ruler",
+          "title": "Thiết Kế Theo Yêu Cầu (Custom Design)",
+          "description": "Đội ngũ kỹ sư sẵn sàng điều chỉnh bản vẽ kỹ thuật (CAD/BIM) theo yêu cầu không gian và chức năng cụ thể của đối tác."
+        },
+        {
+          "icon": "PackageOpen",
+          "title": "Sản Xuất Theo Thông Số Kỹ Thuật Riêng",
+          "description": "Khả năng sản xuất các linh kiện độc quyền, sử dụng vật liệu đặc biệt theo yêu cầu của nhãn hàng đối tác."
+        },
+        {
+          "icon": "Box",
+          "title": "Đóng Gói Thương Hiệu Riêng",
+          "description": "Cung cấp giải pháp đóng gói chuyên nghiệp mang thương hiệu của khách hàng (White Label/Private Label)."
+        },
+        {
+          "icon": "Wrench",
+          "title": "Tích Hợp Linh Kiện Đối Tác",
+          "description": "Dễ dàng tích hợp các thiết bị ngoại vi (máy chủ, màn hình, thiết bị mạng) do khách hàng chỉ định vào thiết kế tổng thể."
+        },
+        {
+          "icon": "Shield",
+          "title": "Bảo Mật Sở Hữu Trí Tuệ",
+          "description": "Cam kết bảo mật tuyệt đối các thiết kế và thông số kỹ thuật độc quyền của khách hàng OEM/ODM."
+        }
+      ]
+    },
+    "rfq": {
+      "title": "Yêu Cầu Báo Giá Nhanh (RFQ)",
+      "benefits": [
+        "Nhận báo giá chính thức trong vòng 48 giờ làm việc.",
+        "Đánh giá chi phí đầu tư toàn diện (TCO) cho dự án của bạn.",
+        "Tham vấn trực tiếp với Kỹ sư Giải pháp để tối ưu hóa thiết kế.",
+        "Đảm bảo mức giá cạnh tranh nhất cho đơn hàng xuất khẩu số lượng lớn."
+      ]
+    },
+    "hero": {
+      "usps": [
+        "Đạt chứng nhận ISO 9001:2015 về Quản lý Chất lượng",
+        "Kinh nghiệm xuất khẩu đến thị trường Châu Âu và Bắc Mỹ",
+        "Thiết kế module, dễ dàng mở rộng quy mô",
+        "Đảm bảo độ trễ mạng dưới 5ms trong mọi điều kiện",
+        "Hỗ trợ tư vấn thiết kế theo tiêu chuẩn Esports quốc tế"
+      ],
+      "title": "Phòng Thi Đấu Team (Team Arena) - Giải Pháp Không Gian Tập Luyện Chuyên Nghiệp | [Tên Nhà Sản Xuất & Xuất Khẩu]",
+      "subtitle": "Thiết lập tiêu chuẩn mới cho hiệu suất đội tuyển với hạ tầng mạng tối ưu và môi trường tập trung tuyệt đối."
+    },
+    "specs": {
+      "title": "Thông Số Kỹ Thuật Chi Tiết",
+      "specifications": [
+        {
+          "label": "Công suất Điện yêu cầu (Tối đa)",
+          "value": "15 kVA (cho cấu hình 10 người)"
+        },
+        {
+          "label": "Độ ồn trong phòng (Tối đa)",
+          "value": "35 dBA"
+        },
+        {
+          "label": "Tốc độ truyền tải Mạng (Đảm bảo)",
+          "value": "1 Gbps đối xứng"
+        },
+        {
+          "label": "Vật liệu Khung bàn",
+          "value": "Thép carbon sơn tĩnh điện cường độ cao"
+        },
+        {
+          "label": "Hệ thống Điều hòa",
+          "value": "VRF/Split Unit với bộ lọc HEPA H13"
+        },
+        {
+          "label": "Tiêu chuẩn Cách âm",
+          "value": "STC 50+ (ASTM E90)"
+        },
+        {
+          "label": "Kích thước tiêu chuẩn/Module",
+          "value": "6m x 8m (Tùy chỉnh)"
+        },
+        {
+          "label": "Khả năng Chịu tải Sàn",
+          "value": "500 kg/m²"
+        },
+        {
+          "label": "Tiêu chuẩn Chống cháy",
+          "value": "Vật liệu không bắt lửa theo tiêu chuẩn NFPA"
+        },
+        {
+          "label": "Hệ thống Quản lý Cáp",
+          "value": "Hệ thống máng cáp ngầm và tích hợp trong bàn"
+        }
+      ],
+      "customizationOptions": [
+        "Tùy chỉnh vật liệu hoàn thiện bề mặt (Gỗ công nghiệp, Composite)",
+        "Tích hợp logo và màu sắc thương hiệu (Branding)",
+        "Nâng cấp lên đường truyền cáp quang 10G",
+        "Lựa chọn cấu hình ghế ngồi (Gaming/Văn phòng)",
+        "Tích hợp hệ thống giám sát video chuyên dụng"
+      ]
+    },
+    "enabled": true,
+    "features": [
+      {
+        "icon": "ShieldCheck",
+        "title": "Hệ thống Kết nối Mạng Độc lập",
+        "description": "Đường truyền cáp quang chuyên dụng, dự phòng kép (Dual Redundant Links), đảm bảo băng thông ổn định tuyệt đối, loại bỏ hiện tượng giật lag trong các phiên tập luyện cường độ cao."
+      },
+      {
+        "icon": "Sound",
+        "title": "Cách Âm Tiêu Chuẩn Phòng Thu",
+        "description": "Sử dụng vật liệu tiêu âm cao cấp (NRC > 0.9), giảm thiểu tối đa tiếng ồn từ bên ngoài, tạo điều kiện tập trung sâu sắc cho các quyết định chiến thuật."
+      },
+      {
+        "icon": "Thermometer",
+        "title": "Kiểm Soát Vi Khí Hậu Chính Xác",
+        "description": "Hệ thống HVAC công nghiệp với kiểm soát nhiệt độ và độ ẩm tự động (±1°C), duy trì môi trường lý tưởng cho thiết bị và thể chất vận động viên."
+      },
+      {
+        "icon": "Zap",
+        "title": "Nguồn Điện Dự Phòng UPS Toàn Diện",
+        "description": "Cung cấp nguồn điện liên tục thông qua hệ thống UPS công suất lớn, bảo vệ toàn bộ thiết bị khỏi sự cố mất điện đột ngột hoặc dao động điện áp."
+      },
+      {
+        "icon": "Monitor",
+        "title": "Thiết Kế Ergonomic Chuyên Biệt",
+        "description": "Bàn làm việc và ghế ngồi đạt chuẩn công thái học quốc tế, giảm thiểu mệt mỏi, hỗ trợ duy trì thể lực trong các buổi tập kéo dài."
+      },
+      {
+        "icon": "LayoutGrid",
+        "title": "Thiết Kế Module Linh Hoạt",
+        "description": "Cấu trúc cho phép tùy chỉnh bố cục từ 5 đến 50 chỗ ngồi, dễ dàng nâng cấp hoặc thay đổi cấu hình theo nhu cầu phát triển của đội tuyển."
+      },
+      {
+        "icon": "Lock",
+        "title": "An Ninh Vật Lý và Mạng",
+        "description": "Hệ thống kiểm soát truy cập bằng thẻ từ và tường lửa cấp doanh nghiệp, bảo vệ tài sản và dữ liệu chiến thuật nhạy cảm."
+      },
+      {
+        "icon": "Lightbulb",
+        "title": "Hệ Thống Chiếu Sáng Thông Minh",
+        "description": "Đèn LED điều chỉnh được độ sáng và nhiệt độ màu, mô phỏng ánh sáng tự nhiên, giảm thiểu căng thẳng thị giác."
+      }
+    ],
+    "overview": {
+      "highlights": [
+        {
+          "icon": "Globe",
+          "label": "Thị trường Xuất khẩu Chính",
+          "value": "EU, Bắc Mỹ, Đông Nam Á"
+        },
+        {
+          "icon": "Users",
+          "label": "Đối tượng Mục tiêu",
+          "value": "Các tổ chức Esports, Học viện Đào tạo, Trung tâm Thể thao"
+        },
+        {
+          "icon": "Gauge",
+          "label": "Chỉ số Hiệu suất Mạng",
+          "value": "Độ trễ trung bình < 5ms"
+        },
+        {
+          "icon": "Factory",
+          "label": "MOQ (Số lượng Đặt hàng Tối thiểu)",
+          "value": "1 Dự án Trọn gói"
+        }
+      ],
+      "description": "Phòng Thi Đấu Team (Team Arena) là giải pháp không gian chuyên dụng được thiết kế khoa học nhằm tối đa hóa hiệu suất làm việc nhóm và tập luyện chuyên sâu cho các đội tuyển thể thao điện tử. Chúng tôi cung cấp môi trường cách âm, kiểm soát nhiệt độ và hạ tầng mạng độc quyền, loại bỏ mọi yếu tố gây xao nhãng."
+    },
+    "packaging": {
+      "incoterms": [
+        "EXW (Giao tại xưởng)",
+        "FOB (Giao tại Cảng đi)",
+        "CIF (Tiền hàng, Bảo hiểm và Cước phí đến Cảng đích)",
+        "DDP (Giao hàng đã nộp thuế)"
+      ],
+      "packagingSpecs": [
+        {
+          "label": "Kích thước Thùng Carton Xuất khẩu",
+          "value": "Theo Module (Max 2.5m x 1.5m x 1.8m)"
+        },
+        {
+          "label": "Vật liệu Đóng gói",
+          "value": "Khung thép cường lực và pallet gỗ xông khói ISPM 15"
+        },
+        {
+          "label": "Trọng lượng Net/Gross (Trung bình)",
+          "value": "Tùy chỉnh theo cấu hình"
+        },
+        {
+          "label": "Nhãn mác",
+          "value": "Tiêu chuẩn quốc tế GHS và mã vạch EAN/UPC"
+        },
+        {
+          "label": "Bảo vệ Chống sốc",
+          "value": "Lớp mút xốp định hình mật độ cao (High-Density Foam)"
+        },
+        {
+          "label": "Số lượng/Container 40' HQ",
+          "value": "Ước tính 4-6 Module hoàn chỉnh"
+        }
+      ],
+      "shippingMethods": [
+        {
+          "icon": "Ship",
+          "methodName": "Vận tải Đường biển (FCL/LCL)",
+          "description": "Giải pháp tiết kiệm chi phí cho đơn hàng số lượng lớn, đảm bảo an toàn hàng hóa."
+        },
+        {
+          "icon": "Truck",
+          "methodName": "Vận tải Đường bộ (Door-to-Door)",
+          "description": "Phù hợp cho các lô hàng trong khu vực Châu Á và các tuyến đường bộ xuyên lục địa."
+        },
+        {
+          "icon": "Plane",
+          "methodName": "Vận tải Hàng không",
+          "description": "Dịch vụ ưu tiên cho các dự án cần thời gian giao hàng gấp rút."
+        },
+        {
+          "icon": "Warehouse",
+          "methodName": "Kho Bãi Tạm Nhập/Tái Xuất",
+          "description": "Hỗ trợ lưu kho linh hoạt tại các cảng quốc tế chiến lược."
+        }
+      ]
+    },
+    "whyChoose": {
+      "metrics": [
+        {
+          "icon": "Award",
+          "label": "Tỷ lệ Dự án Hoàn thành Đúng Hạn",
+          "value": "99.8%"
+        },
+        {
+          "icon": "Users",
+          "label": "Khách hàng Doanh nghiệp Toàn cầu",
+          "value": "50+"
+        },
+        {
+          "icon": "Clock",
+          "label": "Năm Kinh nghiệm trong ngành Hạ tầng IT",
+          "value": "15+"
+        },
+        {
+          "icon": "TrendingUp",
+          "label": "Tăng trưởng Doanh thu Xuất khẩu Hàng năm",
+          "value": "25%"
+        }
+      ],
+      "strengths": [
+        "Chuyên môn sâu về tiêu chuẩn Esports và cơ sở hạ tầng mạng tốc độ cao.",
+        "Quy trình sản xuất tinh gọn (Lean Manufacturing) giúp tối ưu chi phí.",
+        "Đội ngũ kỹ thuật hỗ trợ lắp đặt và vận hành từ xa 24/7.",
+        "Khả năng tùy biến sản phẩm linh hoạt theo ngân sách và yêu cầu kỹ thuật.",
+        "Cam kết bảo hành dài hạn và dịch vụ hậu mãi toàn diện."
+      ]
+    },
+    "leadMagnet": {
+      "title": "Tải Xuống Catalog Sản Phẩm & Bảng Dữ Liệu Kỹ Thuật Chi Tiết",
+      "benefits": [
+        "Xem mô hình 3D chi tiết của các cấu hình phòng tiêu chuẩn.",
+        "Phân tích chuyên sâu về hiệu suất cách âm và truyền tải dữ liệu.",
+        "Bảng giá tham khảo cho các gói tùy chỉnh phổ biến.",
+        "Hồ sơ năng lực và danh sách dự án tiêu biểu đã thực hiện."
+      ]
+    },
+    "showPreview": false,
+    "applications": {
+      "title": "Ứng Dụng & Trường Hợp Sử Dụng",
+      "applications": [
+        {
+          "icon": "Gamepad",
+          "industry": "Esports Chuyên nghiệp",
+          "description": "Cung cấp môi trường tập luyện ổn định, không gián đoạn cho các đội tuyển tham gia giải đấu cấp quốc gia và quốc tế."
+        },
+        {
+          "icon": "BookOpen",
+          "industry": "Học viện Đào tạo & Huấn luyện",
+          "description": "Thiết lập phòng lab đào tạo tiêu chuẩn cao, hỗ trợ phân tích hiệu suất và huấn luyện từ xa."
+        },
+        {
+          "icon": "FlaskConical",
+          "industry": "Phòng Thí nghiệm Nghiên cứu Game",
+          "description": "Môi trường kiểm soát cho các buổi thử nghiệm beta, thu thập dữ liệu hành vi người dùng dưới điều kiện tối ưu."
+        },
+        {
+          "icon": "Briefcase",
+          "industry": "Trung tâm Đổi mới Doanh nghiệp",
+          "description": "Không gian hợp tác công nghệ cao, yêu cầu kết nối mạng siêu ổn định và bảo mật cao."
+        }
+      ]
+    },
+    "certifications": {
+      "qcProcess": [
+        {
+          "step": 1,
+          "title": "Kiểm Tra Nguyên Vật Liệu Đầu Vào",
+          "description": "Xác minh chứng chỉ chất lượng và kiểm tra vật lý từng lô vật liệu thô."
+        },
+        {
+          "step": 2,
+          "title": "Kiểm Soát Trong Quá Trình Sản Xuất",
+          "description": "Giám sát các điểm lắp ráp quan trọng bằng thiết bị đo lường tự động."
+        },
+        {
+          "step": 3,
+          "title": "Kiểm Tra Hiệu Suất Mạng (Stress Test)",
+          "description": "Chạy thử nghiệm tải tối đa 72 giờ trên hệ thống mạng nội bộ và kết nối WAN mô phỏng."
+        },
+        {
+          "step": 4,
+          "title": "Kiểm Tra Chất Lượng Môi Trường",
+          "description": "Đo lường mức độ cách âm, nhiệt độ và độ ẩm trước khi bàn giao."
+        },
+        {
+          "step": 5,
+          "title": "Kiểm Tra Lắp Đặt & Nghiệm Thu (FAT/SAT)",
+          "description": "Thực hiện kiểm tra chấp nhận tại nhà máy (FAT) và kiểm tra chấp nhận tại địa điểm khách hàng (SAT)."
+        }
+      ],
+      "certifications": [
+        {
+          "name": "ISO 9001:2015",
+          "description": "Hệ thống quản lý chất lượng toàn diện trong thiết kế, sản xuất và lắp đặt."
+        },
+        {
+          "name": "CE Marking (EU)",
+          "description": "Đảm bảo sản phẩm tuân thủ các tiêu chuẩn sức khỏe, an toàn và bảo vệ môi trường của Liên minh Châu Âu."
+        },
+        {
+          "name": "RoHS Compliance",
+          "description": "Cam kết không sử dụng các chất độc hại bị hạn chế trong thiết bị điện và điện tử."
+        },
+        {
+          "name": "TIA/EIA Standards Compliance",
+          "description": "Tuân thủ các tiêu chuẩn về hạ tầng viễn thông, đảm bảo chất lượng cáp và kết nối mạng."
+        }
+      ]
+    },
+    "selectedProductId": "3",
+    "id": "3",
+    "slug": "phng-thi-u-team-team-arena-gii-php-khng-gian-tp-luyn-chuyn-nghip-tn-nh-sn-xut-xut-khu"
+  }
+}

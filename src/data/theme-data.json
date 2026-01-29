@@ -1,11 +1,11 @@
 {
   "colors": {
-    "primary": "#D2691E",
-    "secondary": "#A0522D",
-    "accent": "#FFD700",
+    "primary": "#007BFF",
+    "secondary": "#1A237E",
+    "accent": "#FF6B00",
     "background": "#FFFFFF",
-    "text": "#333333",
-    "border": "#E0E0E0"
+    "text": "#1F2937",
+    "border": "#E5E7EB"
   },
   "typography": {
     "fontFamily": "Inter",
@@ -48,11 +48,11 @@
       "keywords": "cà phê việt nam, xuất khẩu cà phê, robusta, arabica"
     },
     "header": {
-      "title": "Bánh Mì Phố Xưa",
-      "subtitle": "Hương Vị Truyền Thống, Chất Lượng Vượt Trội",
-      "backgroundColor": "#FFFFFF",
-      "textColor": "#D2691E",
-      "logo": "/assets/logo.png",
+      "title": "Cyber Arena Gaming",
+      "subtitle": "Nơi trải nghiệm gaming đỉnh cao tại Việt Nam",
+      "backgroundColor": "#1A237E",
+      "textColor": "#FFFFFF",
+      "logo": "/uploads/1769677566889-6nz55b357at.png",
       "logoSize": "medium",
       "colorMode": "custom",
       "primaryColor": "#8B4513",
@@ -63,46 +63,23 @@
         },
         {
           "href": "#products",
-          "name": "Sản phẩm"
-        },
-        {
-          "href": "#services",
-          "name": "Dịch vụ"
-        },
-        {
-          "href": "#about",
-          "name": "Về chúng tôi"
-        },
-        {
-          "href": "#contact",
-          "name": "Liên hệ"
+          "name": "Phòng máy"
         }
       ],
       "ctaButton": {
-        "href": "#products",
-        "text": "Đặt Hàng Ngay",
-        "style": "primary"
+        "href": "#contact",
+        "text": "Đặt chỗ ngay",
+        "style": "accent"
       },
-      "socialLinks": [
-        {
-          "url": "https://facebook.com/banhmiphoXua",
-          "icon": "Facebook",
-          "platform": "facebook"
-        },
-        {
-          "url": "https://instagram.com/banhmiphoXua",
-          "icon": "Instagram",
-          "platform": "instagram"
-        }
-      ]
+      "socialLinks": []
     },
     "hero": {
-      "title": "Bánh Mì Việt Nam Chuẩn Vị Truyền Thống",
-      "subtitle": "Hương vị quen thuộc, chất lượng không đổi",
-      "description": "Bánh Mì Phố Xưa mang đến trải nghiệm ẩm thực Việt Nam đích thực với công thức gia truyền, nguyên liệu tươi mới mỗi ngày và quy trình chế biến hợp vệ sinh.",
-      "ctaText": "Khám Phá Thực Đơn",
-      "ctaSecondaryText": "Xem Ưu Đãi",
-      "image": "/assets/hero-banhmi.jpg",
+      "title": "Cyber Arena Gaming: Đỉnh Cao Của Trải Nghiệm Esports",
+      "subtitle": "Hệ thống máy tính cấu hình khủng, không gian chuyên nghiệp",
+      "description": "Chúng tôi cung cấp môi trường chơi game ổn định, mượt mà, được tối ưu hóa cho mọi tựa game Esports hàng đầu. Cyber Arena Gaming là điểm đến lý tưởng cho game thủ chuyên nghiệp và những người đam mê.",
+      "ctaText": "Khám phá cấu hình máy",
+      "ctaSecondaryText": "Xem lịch thi đấu",
+      "image": "https://placehold.co/600x400?text=Hero+Image+Gaming",
       "titleSize": "xl",
       "subtitleSize": "lg",
       "descriptionSize": "base",
@@ -123,60 +100,64 @@
       "statsFont": "inter",
       "benefits": [
         {
-          "icon": "Utensils",
-          "text": "Công thức gia truyền"
+          "icon": "Zap",
+          "text": "Cấu hình PC mạnh mẽ"
         },
         {
-          "icon": "Leaf",
-          "text": "Nguyên liệu tươi mới"
+          "icon": "Monitor",
+          "text": "Màn hình tần số quét cao"
         },
         {
-          "icon": "BadgeCheck",
-          "text": "Vệ sinh an toàn thực phẩm"
+          "icon": "Users",
+          "text": "Không gian thi đấu chuyên nghiệp"
         }
       ],
       "stats": [
         {
-          "label": "Năm kinh nghiệm",
-          "number": "10+"
+          "label": "Máy tính",
+          "number": "150+"
         },
         {
-          "label": "Bánh mì mỗi ngày",
-          "number": "5000+"
+          "label": "Phục vụ",
+          "number": "24/7"
         },
         {
-          "label": "Hài lòng khách hàng",
-          "number": "100%"
+          "label": "Giải đấu tổ chức",
+          "number": "5+"
         }
       ]
     },
     "about": {
-      "title": "Về Bánh Mì Phố Xưa",
-      "description": "Bánh Mì Phố Xưa được thành lập với mong muốn gìn giữ và phát triển tinh hoa ẩm thực Việt Nam qua món bánh mì. Chúng tôi tự hào là nơi cung cấp những chiếc bánh mì không chỉ nhanh gọn, tiện lợi mà còn giữ trọn vẹn hương vị đặc trưng, thơm ngon từ những nguyên liệu được tuyển chọn kỹ lưỡng.",
-      "image": "/assets/about-banhmi.jpg",
+      "title": "Về Cyber Arena Gaming",
+      "description": "Cyber Arena Gaming được thành lập với sứ mệnh tạo ra một không gian giải trí và luyện tập esports hàng đầu tại TP. Hồ Chí Minh. Chúng tôi không chỉ là một quán net, mà là một cộng đồng nơi game thủ có thể phát triển kỹ năng, thi đấu và kết nối với những người cùng đam mê.",
+      "image": "https://placehold.co/600x400?text=About+CAG",
       "features": [
         {
-          "icon": "BookOpen",
-          "title": "Công Thức Gia Truyền",
-          "description": "Bí quyết gia truyền được lưu giữ qua nhiều thế hệ, tạo nên hương vị độc đáo không thể nhầm lẫn."
-        },
-        {
-          "icon": "CalendarCheck",
-          "title": "Nguyên Liệu Tươi Mới",
-          "description": "Cam kết sử dụng nguyên liệu trong ngày, đảm bảo độ tươi ngon và an toàn tối đa cho khách hàng."
+          "icon": "Monitor",
+          "title": "Công nghệ tiên tiến",
+          "description": "Trang bị các dòng card đồ họa mới nhất và CPU hiệu năng cao."
         },
         {
           "icon": "Users",
-          "title": "Đội Ngũ Tận Tâm",
-          "description": "Đội ngũ nhân viên được đào tạo chuyên nghiệp, phục vụ nhanh chóng và chu đáo."
+          "title": "Cộng đồng game thủ",
+          "description": "Nơi hội tụ của những game thủ có chung đam mê và tinh thần thi đấu."
+        },
+        {
+          "icon": "MapPin",
+          "title": "Vị trí thuận lợi",
+          "description": "Tọa lạc tại trung tâm TP.HCM, dễ dàng di chuyển."
         }
-      ]
+      ],
+      "textColor": "#000000",
+      "titleFont": "merriweather",
+      "titleSize": "base",
+      "backgroundColor": "#ededed"
     },
     "problems": {
-      "title": "Thách Thức Khi Tìm Bánh Mì Ngon",
-      "description": "Nhiều người gặp khó khăn khi tìm kiếm một tiệm bánh mì đáp ứng đủ các tiêu chí: ngon, sạch và nhanh.",
+      "title": "Những Thách Thức Khi Chơi Game Online",
+      "description": "Bạn đang gặp phải những vấn đề này khi chơi game tại các phòng máy thông thường?",
       "backgroundColor": "#FFF8DC",
-      "textColor": "#333333",
+      "textColor": "#1F2937",
       "colorMode": "custom",
       "primaryColor": "#8B4513",
       "titleSize": "2xl",
@@ -193,34 +174,34 @@
         {
           "id": "1",
           "icon": "AlertTriangle",
-          "title": "Hương Vị Không Đồng Nhất",
-          "description": "Khó tìm được nơi có hương vị bánh mì ổn định, không bị thay đổi theo thời gian."
+          "title": "Lag và Độ Trễ Cao",
+          "description": "Đường truyền không ổn định khiến trải nghiệm thi đấu bị ảnh hưởng nghiêm trọng."
         },
         {
           "id": "2",
-          "icon": "XCircle",
-          "title": "Nguyên Liệu Kém Chất Lượng",
-          "description": "Lo ngại về nguồn gốc thực phẩm, thịt nguội, pate không đảm bảo vệ sinh."
+          "icon": "Cpu",
+          "title": "Cấu Hình Máy Yếu",
+          "description": "Máy tính cũ kỹ, không đáp ứng được yêu cầu đồ họa của các tựa game mới."
         },
         {
           "id": "3",
-          "icon": "Clock",
-          "title": "Thời Gian Chờ Đợi Lâu",
-          "description": "Đối với dân văn phòng và học sinh, thời gian chờ đợi quá lâu là một trở ngại lớn."
+          "icon": "Meh",
+          "title": "Ghế ngồi không thoải mái",
+          "description": "Thiếu không gian riêng tư và ghế ngồi kém chất lượng gây mệt mỏi khi chơi lâu."
         },
         {
           "id": "4",
-          "icon": "MinusCircle",
-          "title": "Bánh Mì Không Đủ No",
-          "description": "Kích thước bánh mì quá nhỏ, không đủ dinh dưỡng cho một bữa ăn chính."
+          "icon": "Clock",
+          "title": "Dịch vụ chậm trễ",
+          "description": "Phải chờ đợi lâu để được phục vụ đồ ăn, thức uống hoặc hỗ trợ kỹ thuật."
         }
       ]
     },
     "solutions": {
-      "title": "Giải Pháp Từ Bánh Mì Phố Xưa",
-      "description": "Chúng tôi đã tối ưu hóa mọi khâu để mang đến trải nghiệm tốt nhất cho thực khách.",
+      "title": "Giải Pháp Toàn Diện Từ Cyber Arena",
+      "description": "Chúng tôi mang đến giải pháp tối ưu cho mọi game thủ tại TP.HCM",
       "backgroundColor": "#F0F8FF",
-      "textColor": "#333333",
+      "textColor": "#1F2937",
       "colorMode": "custom",
       "primaryColor": "#8B4513",
       "titleSize": "2xl",
@@ -238,48 +219,48 @@
       "items": [
         {
           "id": "1",
-          "icon": "BookOpen",
-          "title": "Công Thức Chuẩn Hóa",
-          "benefit": "Hương vị đậm đà, không thay đổi.",
-          "description": "Áp dụng công thức gia truyền được chuẩn hóa cho mọi chi nhánh, đảm bảo hương vị luôn nhất quán."
+          "icon": "Wifi",
+          "title": "Đường Truyền Tốc Độ Cao",
+          "benefit": "Chơi game mượt mà không gián đoạn",
+          "description": "Hệ thống mạng được tối ưu hóa với độ trễ thấp nhất, đảm bảo mọi pha xử lý của bạn đều được ghi nhận tức thì."
         },
         {
           "id": "2",
-          "icon": "ShieldCheck",
-          "title": "Kiểm Soát Nguyên Liệu Nghiêm Ngặt",
-          "benefit": "An toàn tuyệt đối cho sức khỏe người tiêu dùng.",
-          "description": "Chỉ nhập nguyên liệu tươi mới mỗi ngày từ các nhà cung cấp uy tín, đảm bảo an toàn thực phẩm."
+          "icon": "Monitor",
+          "title": "Cấu Hình PC Mạnh Mẽ",
+          "benefit": "Hiệu năng đồ họa vượt trội",
+          "description": "Máy tính cấu hình cao nhất trên thị trường, sẵn sàng chiến mọi tựa game AAA và Esports ở mức setting tối đa."
         },
         {
           "id": "3",
-          "icon": "Zap",
-          "title": "Phục Vụ Tốc Độ Cao",
-          "benefit": "Tiết kiệm thời gian quý báu cho khách hàng.",
-          "description": "Quy trình chuẩn bị nhanh chóng, tối ưu hóa cho dịch vụ mang đi (take-away)."
+          "icon": "Users",
+          "title": "Khu Vực Riêng Tư",
+          "benefit": "Tập trung cao độ vào trận đấu",
+          "description": "Các phòng VIP và phòng Team Arena với thiết kế hiện đại, ghế gaming cao cấp, mang lại sự thoải mái tối đa."
         },
         {
           "id": "4",
-          "icon": "Package",
-          "title": "Bánh Mì Đầy Đặn",
-          "benefit": "Bữa ăn no bụng, chất lượng.",
-          "description": "Mỗi chiếc bánh mì được làm với lượng nhân đầy đủ, đảm bảo dinh dưỡng và sự hài lòng."
+          "icon": "Coffee",
+          "title": "Dịch Vụ 24/7 Chuyên Nghiệp",
+          "benefit": "Trải nghiệm dịch vụ đẳng cấp",
+          "description": "Đội ngũ nhân viên được đào tạo bài bản, phục vụ đồ ăn thức uống nhanh chóng và hỗ trợ kỹ thuật tức thì."
         }
       ]
     },
     "cta": {
-      "title": "Sẵn Sàng Thưởng Thức Hương Vị Truyền Thống?",
-      "description": "Đặt hàng ngay hôm nay để trải nghiệm sự khác biệt của Bánh Mì Phố Xưa. Chúng tôi phục vụ mọi đối tượng khách hàng từ cá nhân đến sự kiện.",
-      "buttonText": "Xem Thực Đơn",
-      "buttonSecondaryText": "Đặt Sự Kiện",
-      "backgroundColor": "#D2691E",
+      "title": "Sẵn Sàng Cho Trận Đấu Tiếp Theo Của Bạn?",
+      "description": "Trải nghiệm sự khác biệt ngay hôm nay tại Cyber Arena Gaming. Đặt chỗ ngay để đảm bảo vị trí tốt nhất!",
+      "buttonText": "Đặt chỗ ngay",
+      "buttonSecondaryText": "Xem bản đồ đường đi",
+      "backgroundColor": "#007BFF",
       "textColor": "#FFFFFF",
-      "image": "/assets/cta-banhmi.jpg"
+      "image": "https://placehold.co/600x400?text=CTA+Gaming"
     },
     "products": {
-      "title": "Thực Đơn Đặc Sắc",
-      "description": "Khám phá những lựa chọn bánh mì làm nên thương hiệu Bánh Mì Phố Xưa, từ truyền thống đến sáng tạo.",
-      "backgroundColor": "#F5F5DC",
-      "textColor": "#333333",
+      "title": "Không Gian và Cấu Hình Máy",
+      "description": "Chúng tôi cung cấp các khu vực chơi game đa dạng, đáp ứng mọi nhu cầu từ giải trí nhẹ nhàng đến thi đấu chuyên nghiệp.",
+      "backgroundColor": "#F0F4F8",
+      "textColor": "#1F2937",
       "colorMode": "custom",
       "primaryColor": "#8B4513",
       "titleSize": "2xl",
@@ -291,78 +272,99 @@
       "items": [
         {
           "id": "1",
-          "name": "Bánh Mì Thịt Truyền Thống",
-          "image": "/assets/product-traditional.jpg",
-          "price": "Từ 25.000 VNĐ",
-          "category": "Bánh Mì Truyền Thống",
+          "name": "Phòng Máy Thường (Standard)",
+          "image": "https://placehold.co/400x300?text=Standard+Room",
+          "price": "Liên hệ",
+          "category": "Phòng máy",
           "features": [
-            "Thịt nguội đặc biệt",
-            "Pate gia truyền",
-            "Đồ chua giòn ngon"
+            "CPU i5/i7",
+            "RAM 16GB",
+            "Card đồ họa tầm trung"
           ],
-          "description": "Sự kết hợp hoàn hảo giữa thịt nguội chất lượng, chả lụa thơm ngon, pate béo ngậy và rau thơm tươi mát."
+          "description": "Cấu hình mạnh mẽ, lý tưởng cho việc giải trí hàng ngày và luyện tập cơ bản. Màn hình 144Hz."
         },
         {
           "id": "2",
-          "name": "Bánh Mì Chả, Pate, Xíu Mại",
-          "image": "/assets/product-xiumai.jpg",
-          "price": "Từ 30.000 VNĐ",
-          "category": "Bánh Mì Đặc Biệt",
+          "name": "Phòng VIP (VIP Area)",
+          "image": "https://placehold.co/400x300?text=VIP+Room",
+          "price": "Liên hệ",
+          "category": "Phòng máy",
           "features": [
-            "Xíu mại tự làm",
-            "Chả chiên giòn",
-            "Nước sốt đậm đà"
+            "CPU i7/i9",
+            "RAM 32GB",
+            "Card đồ họa cao cấp"
           ],
-          "description": "Hương vị đậm đà với chả chiên giòn, xíu mại nóng hổi và lớp pate béo ngậy đặc trưng."
+          "description": "Không gian riêng tư, thoải mái hơn với cấu hình cao hơn và ghế gaming ergonomic. Màn hình 240Hz."
         },
         {
           "id": "3",
-          "name": "Bánh Mì Đặc Biệt Combo",
-          "image": "/assets/product-combo.jpg",
-          "price": "Từ 45.000 VNĐ",
-          "category": "Combo Ưu Đãi",
+          "name": "Phòng Thi Đấu Team (Team Arena)",
+          "image": "https://placehold.co/400x300?text=Team+Arena",
+          "price": "Liên hệ",
+          "category": "Phòng máy",
           "features": [
-            "Thịt, chả, pate, trứng",
-            "Kích thước lớn",
-            "Kèm sữa đậu nành"
+            "Cấu hình tối ưu",
+            "Đường truyền riêng",
+            "Thiết bị chuyên dụng"
           ],
-          "description": "Combo bánh mì đầy đủ nhất, bao gồm tất cả các loại nhân đặc trưng và đồ uống kèm theo."
+          "description": "Khu vực được thiết kế đặc biệt cho các đội tuyển, đảm bảo đường truyền mạng ổn định nhất và không gian tập trung cao độ."
         }
       ],
       "services": [
         {
           "id": "1",
-          "cta": "Xem chi tiết",
+          "cta": "Xem Menu",
           "icon": "Coffee",
-          "name": "Đồ Uống Kèm",
-          "description": "Sữa đậu nành tươi, nước ngọt các loại, phục vụ kèm bánh mì."
+          "name": "Đồ ăn & Nước uống",
+          "description": "Thực đơn phong phú, phục vụ tận bàn, đảm bảo năng lượng cho những trận đấu dài."
         },
         {
           "id": "2",
-          "cta": "Yêu cầu báo giá",
-          "icon": "Package",
-          "name": "Đặt Hàng Số Lượng Lớn",
-          "description": "Nhận đặt bánh mì cho các sự kiện, hội họp nhỏ với mức giá ưu đãi."
+          "cta": "Đăng ký giải đấu",
+          "icon": "Trophy",
+          "name": "Tổ chức Giải Đấu",
+          "description": "Hỗ trợ tổ chức các giải đấu Esports chuyên nghiệp (LOL, CS2, Valorant, Dota 2) với cơ sở vật chất hiện đại."
         },
         {
           "id": "3",
-          "cta": "Tìm chi nhánh gần nhất",
-          "icon": "Clock",
-          "name": "Take-Away Nhanh Gọn",
-          "description": "Quy trình phục vụ tối ưu cho khách hàng bận rộn, đảm bảo thời gian chờ đợi ngắn nhất."
+          "cta": "Tìm hiểu thêm",
+          "icon": "Video",
+          "name": "Thuê Phòng Stream/Training",
+          "description": "Cho thuê phòng riêng biệt được trang bị đầy đủ thiết bị stream và training cho cá nhân hoặc đội tuyển."
+        },
+        {
+          "id": "4",
+          "cta": "Yêu cầu hỗ trợ",
+          "icon": "Settings",
+          "name": "Hỗ Trợ Kỹ Thuật",
+          "description": "Đội ngũ kỹ thuật viên túc trực 24/7 để đảm bảo mọi sự cố phần cứng/mạng đều được xử lý nhanh chóng."
+        },
+        {
+          "id": "5",
+          "cta": "Thực hiện giao dịch",
+          "icon": "CreditCard",
+          "name": "Nạp Game & Vật Phẩm",
+          "description": "Dịch vụ nạp game, mua vật phẩm nhanh chóng, an toàn và tiện lợi."
+        },
+        {
+          "id": "6",
+          "cta": "Kiểm tra tốc độ",
+          "icon": "Wifi",
+          "name": "Hệ Thống Mạng",
+          "description": "Đường truyền Internet cáp quang tốc độ cao, ổn định, độ trễ cực thấp."
         }
       ]
     },
     "footer": {
-      "companyName": "Bánh Mì Phố Xưa",
-      "description": "Chuyên cung cấp bánh mì Việt Nam truyền thống, chất lượng cao cho mọi thực khách.",
-      "backgroundColor": "#A0522D",
-      "textColor": "#FFFFFF",
+      "companyName": "Cyber Arena Gaming",
+      "description": "Trung tâm giải trí và luyện tập Esports hàng đầu tại TP. Hồ Chí Minh. Nơi tạo ra những nhà vô địch.",
+      "backgroundColor": "#1A237E",
+      "textColor": "#F9FAFB",
       "contact": {
-        "phone": "+84 123 456 789",
-        "email": "lienhe@banhmiphoXua.vn",
-        "address": "Tầng 5, Tòa nhà ABC, Quận 1, TP.HCM",
-        "businessHours": "Thứ 2 - Chủ Nhật: 6AM - 10PM"
+        "phone": "+84 987 654 321",
+        "email": "lienhe@cyberarenagaming.vn",
+        "address": "Số 123, Đường Nguyễn Huệ, Quận 1, TP.HCM",
+        "businessHours": "24/7, Tất cả các ngày trong tuần"
       },
       "quickLinks": [
         {
@@ -371,25 +373,25 @@
         },
         {
           "href": "#products",
-          "name": "Sản phẩm"
+          "name": "Phòng máy"
+        },
+        {
+          "href": "#services",
+          "name": "Dịch vụ"
         },
         {
           "href": "#about",
           "name": "Về chúng tôi"
-        },
-        {
-          "href": "#contact",
-          "name": "Liên hệ"
         }
       ],
       "resources": [
         {
-          "href": "#menu",
-          "name": "Thực đơn chi tiết"
+          "href": "#tournaments",
+          "name": "Lịch thi đấu"
         },
         {
-          "href": "#support",
-          "name": "Hỗ trợ khách hàng"
+          "href": "#pricing",
+          "name": "Bảng giá"
         },
         {
           "href": "#faq",
@@ -404,37 +406,41 @@
         {
           "href": "#terms",
           "name": "Điều Khoản Dịch Vụ"
+        },
+        {
+          "href": "#rules",
+          "name": "Nội quy phòng máy"
         }
       ],
       "socialLinks": [
         {
-          "href": "#",
+          "href": "https://facebook.com/cyberarenagaming",
           "icon": "Facebook",
           "label": "Facebook"
         },
         {
-          "href": "#",
+          "href": "https://twitter.com/cyberarenagaming",
           "icon": "Twitter",
           "label": "Twitter"
         },
         {
-          "href": "#",
-          "icon": "Linkedin",
-          "label": "LinkedIn"
+          "href": "https://youtube.com/cyberarenagaming",
+          "icon": "Youtube",
+          "label": "YouTube"
         }
       ],
       "newsletter": {
-        "title": "Đăng ký nhận ưu đãi",
+        "title": "Đăng ký nhận tin tức",
         "buttonText": "Đăng ký",
-        "description": "Cập nhật các chương trình khuyến mãi mới nhất.",
+        "description": "Cập nhật về các giải đấu và ưu đãi mới nhất.",
         "placeholder": "Nhập email của bạn"
       }
     },
     "testimonials": {
-      "title": "Khách Hàng Nói Gì Về Bánh Mì Phố Xưa",
-      "subtitle": "Những đánh giá chân thực từ học sinh, sinh viên và dân văn phòng.",
+      "title": "Đánh Giá Từ Cộng Đồng Game Thủ",
+      "subtitle": "Những lời nhận xét chân thực từ khách hàng thân thiết của chúng tôi",
       "backgroundColor": "#F5F5DC",
-      "textColor": "#333333",
+      "textColor": "#1F2937",
       "colorMode": "custom",
       "primaryColor": "#8B4513",
       "titleSize": "2xl",
@@ -446,154 +452,531 @@
       "testimonials": [
         {
           "id": "1",
-          "name": "Nguyễn Văn A",
-          "image": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=400&h=400&fit=crop&crop=face",
-          "title": "Nhân viên văn phòng",
+          "name": "Minh Nguyễn",
+          "image": "https://images.unsplash.com/photo-1506794778202-dfa43e1c695a?w=400&h=400&fit=crop&crop=face",
+          "title": "Game thủ chuyên nghiệp (Valorant)",
           "rating": 5,
-          "company": "Công ty XYZ",
-          "content": "Bánh mì ở đây luôn là lựa chọn hàng đầu cho bữa trưa nhanh gọn. Pate rất ngon và thịt đầy đặn."
+          "company": "Đội tuyển Alpha",
+          "content": "Cyber Arena Gaming là phòng máy có cấu hình mạnh nhất tôi từng chơi. Ping ổn định tuyệt đối, rất phù hợp cho việc tập luyện thi đấu."
         },
         {
           "id": "2",
-          "name": "Trần Thị B",
-          "image": "https://images.unsplash.com/photo-1529626455594-4ff080252c4b?w=400&h=400&fit=crop&crop=face",
+          "name": "Thanh Lê",
+          "image": "https://images.unsplash.com/photo-1519389950473-479936d55662?w=400&h=400&fit=crop&crop=face",
           "title": "Sinh viên",
           "rating": 5,
-          "company": "Đại học Quốc Gia",
-          "content": "Giá cả hợp lý, bánh mì to và ngon. Mình thường xuyên mua cho bữa sáng hoặc ăn xế."
+          "company": "Đại học Bách Khoa",
+          "content": "Phòng VIP rất thoải mái, đồ ăn thức uống phục vụ nhanh. Tôi thường xuyên đến đây với nhóm bạn để giải trí cuối tuần."
         },
         {
           "id": "3",
-          "name": "Lê Văn C",
-          "image": "https://images.unsplash.com/photo-1507003211169-0a1ad7e27a8e?w=400&h=400&fit=crop&crop=face",
-          "title": "Quản lý sự kiện",
+          "name": "Hoàng Vũ",
+          "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop&crop=face",
+          "title": "Streamer",
           "rating": 5,
-          "company": "Công ty Tổ chức Sự kiện",
-          "content": "Chúng tôi đã đặt bánh mì cho sự kiện ngoài trời. Phục vụ chuyên nghiệp, bánh mì tươi ngon và giao hàng đúng giờ."
+          "company": "Kênh Vũ Gaming",
+          "content": "Phòng stream tại đây được trang bị đầy đủ thiết bị. Tôi rất hài lòng với chất lượng âm thanh và hình ảnh khi livestream."
         }
       ],
       "partners": [
-        "Trường học",
-        "Văn phòng",
-        "Cửa hàng tiện lợi",
-        "Công ty sự kiện"
+        "Nhà tài trợ A",
+        "Nhà tài trợ B",
+        "Đội tuyển C",
+        "Nhà tài trợ D",
+        "Đội tuyển E",
+        "Nhà tài trợ F"
       ],
       "stats": [
         {
-          "label": "Khách hàng đặt sự kiện",
-          "number": "1000+"
+          "label": "Trận đấu",
+          "number": "200+",
+          "sublabel": "Được tổ chức"
         },
         {
-          "label": "Chi nhánh",
-          "number": "50+"
+          "label": "Thành viên",
+          "number": "500+",
+          "sublabel": "Đăng ký VIP"
         },
         {
-          "label": "Đánh giá tích cực",
-          "number": "99%"
+          "label": "Độ hài lòng",
+          "number": "100%",
+          "sublabel": "Về đường truyền"
         },
         {
-          "label": "Hỗ trợ đặt hàng",
-          "number": "24/7"
+          "label": "Giải đấu",
+          "number": "30+",
+          "sublabel": "Đã tài trợ"
         }
       ]
     },
     "leadMagnet": {
-      "title": "Tải Về Cẩm Nang Ẩm Thực Đường Phố Việt Nam",
-      "formTitle": "Nhận Cẩm Nang Miễn Phí",
-      "textColor": "#333333",
+      "title": "Tải Về Hướng Dẫn Xây Dựng Đội Hình Esports",
+      "formTitle": "Nhận Hướng Dẫn Miễn Phí",
+      "textColor": "#1F2937",
       "buttonText": "Tải Về Ngay",
-      "guideTitle": "Cẩm Nang Bánh Mì Việt Nam",
-      "description": "Nhận ngay cẩm nang chi tiết về các món ăn đường phố được yêu thích nhất tại Việt Nam, bao gồm cả các mẹo thưởng thức bánh mì chuẩn vị.",
+      "guideTitle": "Cẩm Nang Xây Dựng Đội Hình Esports",
+      "description": "Bí quyết từ các chuyên gia của Cyber Arena Gaming để xây dựng và tối ưu hóa hiệu suất đội tuyển của bạn.",
       "guideFeatures": [
         {
-          "icon": "FileText",
-          "title": "Lịch sử Bánh Mì",
-          "description": "Tìm hiểu nguồn gốc và sự phát triển của món ăn."
+          "icon": "Target",
+          "title": "Chiến lược Teamwork",
+          "description": "Kỹ thuật giao tiếp và phối hợp trong game."
         },
         {
           "icon": "TrendingUp",
-          "title": "Xu hướng Ẩm thực",
-          "description": "Phân tích xu hướng bánh mì hiện đại."
+          "title": "Phân tích đối thủ",
+          "description": "Phương pháp nghiên cứu và đối phó với các đội tuyển khác."
         },
         {
           "icon": "Shield",
-          "title": "Tiêu chuẩn Vệ Sinh",
-          "description": "Các tiêu chuẩn vệ sinh cần thiết cho kinh doanh."
+          "title": "Quản lý tâm lý",
+          "description": "Các bài tập giúp duy trì sự tập trung dưới áp lực."
         },
         {
-          "icon": "CheckCircle",
-          "title": "Công thức cơ bản",
-          "description": "Bí quyết làm pate và đồ chua cơ bản."
+          "icon": "Users",
+          "title": "Tuyển dụng thành viên",
+          "description": "Tiêu chí lựa chọn và đào tạo thành viên tiềm năng."
         }
       ],
-      "guideSubtitle": "Phiên bản 2024 - Hướng dẫn từ A-Z",
+      "guideSubtitle": "Phiên bản 2024 - Chiến lược và Vận hành",
       "backgroundColor": "#F8F9FA",
-      "formDescription": "Vui lòng điền thông tin để nhận tài liệu ngay lập tức.",
+      "formDescription": "Điền thông tin để tải ngay cẩm nang độc quyền của chúng tôi.",
       "trustIndicators": [
         {
-          "label": "Lượt tải cẩm nang",
-          "number": "10,000+"
+          "label": "Đội tuyển đã tải",
+          "number": "1,200+"
         },
         {
-          "label": "Đánh giá 5 sao",
+          "label": "Đánh giá tích cực",
           "number": "95%"
         },
         {
-          "label": "Khách hàng đặt sự kiện",
-          "number": "500+"
+          "label": "Giải đấu tổ chức",
+          "number": "30+"
         }
       ]
     },
     "whyChooseUs": {
       "cta": {
-        "title": "Trải Nghiệm Ngay Hôm Nay!",
-        "buttonText": "Tìm Chi Nhánh Gần Nhất",
-        "description": "Hãy ghé thăm chi nhánh gần nhất hoặc đặt hàng trực tuyến để thưởng thức hương vị tuyệt vời."
+        "title": "Tham Gia Cộng Đồng Cyber Arena Ngay Hôm Nay",
+        "buttonText": "Đến Cyber Arena",
+        "description": "Trải nghiệm sự khác biệt với hệ thống máy tính và dịch vụ đẳng cấp."
       },
-      "title": "Lý Do Khách Hàng Tin Chọn Bánh Mì Phố Xưa",
+      "title": "Vì Sao Game Thủ Tin Chọn Cyber Arena Gaming?",
       "vision": {
         "title": "Tầm Nhìn",
-        "description": "Trở thành chuỗi bánh mì hàng đầu được yêu thích nhất tại Việt Nam về chất lượng và hương vị."
+        "description": "Xây dựng một hệ sinh thái gaming chuyên nghiệp, đóng góp vào sự phát triển của cộng đồng Esports Việt Nam."
       },
       "mission": {
         "title": "Sứ Mệnh",
-        "description": "Mang hương vị bánh mì Việt Nam truyền thống đến mọi thực khách, góp phần giữ gìn nét đẹp văn hóa ẩm thực."
+        "description": "Trở thành trung tâm giải trí và luyện tập Esports hàng đầu, nơi mọi game thủ có thể phát huy tối đa tiềm năng của mình."
       },
-      "subtitle": "Chúng tôi không chỉ bán bánh mì, chúng tôi mang đến trải nghiệm ẩm thực Việt Nam đích thực.",
+      "subtitle": "Chúng tôi không chỉ cung cấp máy tính, chúng tôi cung cấp trải nghiệm",
       "strengths": [
         {
-          "icon": "BookOpen",
-          "title": "Bí Quyết Gia Truyền",
-          "description": "Giữ trọn hương vị truyền thống qua các công thức được bảo tồn qua nhiều năm."
-        },
-        {
-          "icon": "Leaf",
-          "title": "Nguyên Liệu Tươi Mỗi Ngày",
-          "description": "Cam kết về nguồn gốc và độ tươi ngon của mọi thành phần."
-        },
-        {
-          "icon": "BadgeCheck",
-          "title": "Vệ Sinh An Toàn Thực Phẩm",
-          "description": "Quy trình chế biến khép kín, đạt chuẩn vệ sinh nghiêm ngặt."
+          "icon": "Cpu",
+          "title": "Cấu hình luôn cập nhật",
+          "description": "Luôn trang bị các linh kiện mới nhất để đảm bảo hiệu năng tối ưu."
         },
         {
           "icon": "Clock",
-          "title": "Phục Vụ Nhanh Chóng",
-          "description": "Đáp ứng nhu cầu thức ăn nhanh cho học sinh, sinh viên và dân văn phòng."
+          "title": "Ổn định tuyệt đối",
+          "description": "Hệ thống mạng và phần cứng được bảo trì liên tục, giảm thiểu tối đa gián đoạn."
+        },
+        {
+          "icon": "Users",
+          "title": "Cộng đồng Esports",
+          "description": "Môi trường cạnh tranh lành mạnh, nơi bạn có thể tìm thấy đồng đội và đối thủ xứng tầm."
+        },
+        {
+          "icon": "Coffee",
+          "title": "Dịch vụ chu đáo",
+          "description": "Đội ngũ nhân viên tận tâm, hỗ trợ nhanh chóng mọi yêu cầu."
+        },
+        {
+          "icon": "Trophy",
+          "title": "Nền tảng thi đấu",
+          "description": "Thường xuyên tổ chức các giải đấu lớn nhỏ, tạo cơ hội cho game thủ thể hiện tài năng."
         },
         {
           "icon": "MapPin",
-          "title": "Vị Trí Thuận Tiện",
-          "description": "Các chi nhánh được đặt tại các vị trí đắc địa, dễ dàng tiếp cận."
-        },
-        {
-          "icon": "DollarSign",
-          "title": "Giá Cả Hợp Lý",
-          "description": "Chất lượng cao đi kèm với mức giá phải chăng, phù hợp với mọi đối tượng."
+          "title": "Vị trí trung tâm",
+          "description": "Dễ dàng tiếp cận tại các khu vực sầm uất của TP.HCM."
         }
       ],
-      "textColor": "#333333",
+      "textColor": "#1F2937",
       "backgroundColor": "#FFFFFF"
-    }
+    },
+    "productPages": {
+      "1": [
+        null,
+        {
+          "name": "",
+          "enabled": true
+        }
+      ],
+      "2": [
+        null,
+        null,
+        {
+          "name": "",
+          "enabled": true,
+          "showPreview": true
+        }
+      ],
+      "3": {
+        "cta": {
+          "title": "Tối Ưu Hóa Hiệu Suất Đội Tuyển Ngay Hôm Nay",
+          "benefits": [
+            "Đảm bảo tính sẵn sàng của dự án",
+            "Nhận hỗ trợ kỹ thuật chuyên sâu trước bán hàng",
+            "Ký kết hợp đồng xuất khẩu minh bạch, rõ ràng"
+          ],
+          "subtitle": "Liên hệ với chuyên gia của chúng tôi để thiết lập một không gian thi đấu chuyên nghiệp, đảm bảo lợi thế cạnh tranh tối đa cho đối tác của bạn.",
+          "buttonText": "Yêu Cầu Tư Vấn Giải Pháp"
+        },
+        "oem": {
+          "title": "Năng Lực OEM/ODM Toàn Diện",
+          "capabilities": [
+            {
+              "icon": "Ruler",
+              "title": "Thiết Kế Theo Yêu Cầu (Custom Design)",
+              "description": "Đội ngũ kỹ sư sẵn sàng điều chỉnh bản vẽ kỹ thuật (CAD/BIM) theo yêu cầu không gian và chức năng cụ thể của đối tác."
+            },
+            {
+              "icon": "PackageOpen",
+              "title": "Sản Xuất Theo Thông Số Kỹ Thuật Riêng",
+              "description": "Khả năng sản xuất các linh kiện độc quyền, sử dụng vật liệu đặc biệt theo yêu cầu của nhãn hàng đối tác."
+            },
+            {
+              "icon": "Box",
+              "title": "Đóng Gói Thương Hiệu Riêng",
+              "description": "Cung cấp giải pháp đóng gói chuyên nghiệp mang thương hiệu của khách hàng (White Label/Private Label)."
+            },
+            {
+              "icon": "Wrench",
+              "title": "Tích Hợp Linh Kiện Đối Tác",
+              "description": "Dễ dàng tích hợp các thiết bị ngoại vi (máy chủ, màn hình, thiết bị mạng) do khách hàng chỉ định vào thiết kế tổng thể."
+            },
+            {
+              "icon": "Shield",
+              "title": "Bảo Mật Sở Hữu Trí Tuệ",
+              "description": "Cam kết bảo mật tuyệt đối các thiết kế và thông số kỹ thuật độc quyền của khách hàng OEM/ODM."
+            }
+          ]
+        },
+        "rfq": {
+          "title": "Yêu Cầu Báo Giá Nhanh (RFQ)",
+          "benefits": [
+            "Nhận báo giá chính thức trong vòng 48 giờ làm việc.",
+            "Đánh giá chi phí đầu tư toàn diện (TCO) cho dự án của bạn.",
+            "Tham vấn trực tiếp với Kỹ sư Giải pháp để tối ưu hóa thiết kế.",
+            "Đảm bảo mức giá cạnh tranh nhất cho đơn hàng xuất khẩu số lượng lớn."
+          ]
+        },
+        "hero": {
+          "usps": [
+            "Đạt chứng nhận ISO 9001:2015 về Quản lý Chất lượng",
+            "Kinh nghiệm xuất khẩu đến thị trường Châu Âu và Bắc Mỹ",
+            "Thiết kế module, dễ dàng mở rộng quy mô",
+            "Đảm bảo độ trễ mạng dưới 5ms trong mọi điều kiện",
+            "Hỗ trợ tư vấn thiết kế theo tiêu chuẩn Esports quốc tế"
+          ],
+          "title": "Phòng Thi Đấu Team (Team Arena) - Giải Pháp Không Gian Tập Luyện Chuyên Nghiệp | [Tên Nhà Sản Xuất & Xuất Khẩu]",
+          "subtitle": "Thiết lập tiêu chuẩn mới cho hiệu suất đội tuyển với hạ tầng mạng tối ưu và môi trường tập trung tuyệt đối."
+        },
+        "specs": {
+          "title": "Thông Số Kỹ Thuật Chi Tiết",
+          "specifications": [
+            {
+              "label": "Công suất Điện yêu cầu (Tối đa)",
+              "value": "15 kVA (cho cấu hình 10 người)"
+            },
+            {
+              "label": "Độ ồn trong phòng (Tối đa)",
+              "value": "35 dBA"
+            },
+            {
+              "label": "Tốc độ truyền tải Mạng (Đảm bảo)",
+              "value": "1 Gbps đối xứng"
+            },
+            {
+              "label": "Vật liệu Khung bàn",
+              "value": "Thép carbon sơn tĩnh điện cường độ cao"
+            },
+            {
+              "label": "Hệ thống Điều hòa",
+              "value": "VRF/Split Unit với bộ lọc HEPA H13"
+            },
+            {
+              "label": "Tiêu chuẩn Cách âm",
+              "value": "STC 50+ (ASTM E90)"
+            },
+            {
+              "label": "Kích thước tiêu chuẩn/Module",
+              "value": "6m x 8m (Tùy chỉnh)"
+            },
+            {
+              "label": "Khả năng Chịu tải Sàn",
+              "value": "500 kg/m²"
+            },
+            {
+              "label": "Tiêu chuẩn Chống cháy",
+              "value": "Vật liệu không bắt lửa theo tiêu chuẩn NFPA"
+            },
+            {
+              "label": "Hệ thống Quản lý Cáp",
+              "value": "Hệ thống máng cáp ngầm và tích hợp trong bàn"
+            }
+          ],
+          "customizationOptions": [
+            "Tùy chỉnh vật liệu hoàn thiện bề mặt (Gỗ công nghiệp, Composite)",
+            "Tích hợp logo và màu sắc thương hiệu (Branding)",
+            "Nâng cấp lên đường truyền cáp quang 10G",
+            "Lựa chọn cấu hình ghế ngồi (Gaming/Văn phòng)",
+            "Tích hợp hệ thống giám sát video chuyên dụng"
+          ]
+        },
+        "enabled": true,
+        "features": [
+          {
+            "icon": "ShieldCheck",
+            "title": "Hệ thống Kết nối Mạng Độc lập",
+            "description": "Đường truyền cáp quang chuyên dụng, dự phòng kép (Dual Redundant Links), đảm bảo băng thông ổn định tuyệt đối, loại bỏ hiện tượng giật lag trong các phiên tập luyện cường độ cao."
+          },
+          {
+            "icon": "Sound",
+            "title": "Cách Âm Tiêu Chuẩn Phòng Thu",
+            "description": "Sử dụng vật liệu tiêu âm cao cấp (NRC > 0.9), giảm thiểu tối đa tiếng ồn từ bên ngoài, tạo điều kiện tập trung sâu sắc cho các quyết định chiến thuật."
+          },
+          {
+            "icon": "Thermometer",
+            "title": "Kiểm Soát Vi Khí Hậu Chính Xác",
+            "description": "Hệ thống HVAC công nghiệp với kiểm soát nhiệt độ và độ ẩm tự động (±1°C), duy trì môi trường lý tưởng cho thiết bị và thể chất vận động viên."
+          },
+          {
+            "icon": "Zap",
+            "title": "Nguồn Điện Dự Phòng UPS Toàn Diện",
+            "description": "Cung cấp nguồn điện liên tục thông qua hệ thống UPS công suất lớn, bảo vệ toàn bộ thiết bị khỏi sự cố mất điện đột ngột hoặc dao động điện áp."
+          },
+          {
+            "icon": "Monitor",
+            "title": "Thiết Kế Ergonomic Chuyên Biệt",
+            "description": "Bàn làm việc và ghế ngồi đạt chuẩn công thái học quốc tế, giảm thiểu mệt mỏi, hỗ trợ duy trì thể lực trong các buổi tập kéo dài."
+          },
+          {
+            "icon": "LayoutGrid",
+            "title": "Thiết Kế Module Linh Hoạt",
+            "description": "Cấu trúc cho phép tùy chỉnh bố cục từ 5 đến 50 chỗ ngồi, dễ dàng nâng cấp hoặc thay đổi cấu hình theo nhu cầu phát triển của đội tuyển."
+          },
+          {
+            "icon": "Lock",
+            "title": "An Ninh Vật Lý và Mạng",
+            "description": "Hệ thống kiểm soát truy cập bằng thẻ từ và tường lửa cấp doanh nghiệp, bảo vệ tài sản và dữ liệu chiến thuật nhạy cảm."
+          },
+          {
+            "icon": "Lightbulb",
+            "title": "Hệ Thống Chiếu Sáng Thông Minh",
+            "description": "Đèn LED điều chỉnh được độ sáng và nhiệt độ màu, mô phỏng ánh sáng tự nhiên, giảm thiểu căng thẳng thị giác."
+          }
+        ],
+        "overview": {
+          "highlights": [
+            {
+              "icon": "Globe",
+              "label": "Thị trường Xuất khẩu Chính",
+              "value": "EU, Bắc Mỹ, Đông Nam Á"
+            },
+            {
+              "icon": "Users",
+              "label": "Đối tượng Mục tiêu",
+              "value": "Các tổ chức Esports, Học viện Đào tạo, Trung tâm Thể thao"
+            },
+            {
+              "icon": "Gauge",
+              "label": "Chỉ số Hiệu suất Mạng",
+              "value": "Độ trễ trung bình < 5ms"
+            },
+            {
+              "icon": "Factory",
+              "label": "MOQ (Số lượng Đặt hàng Tối thiểu)",
+              "value": "1 Dự án Trọn gói"
+            }
+          ],
+          "description": "Phòng Thi Đấu Team (Team Arena) là giải pháp không gian chuyên dụng được thiết kế khoa học nhằm tối đa hóa hiệu suất làm việc nhóm và tập luyện chuyên sâu cho các đội tuyển thể thao điện tử. Chúng tôi cung cấp môi trường cách âm, kiểm soát nhiệt độ và hạ tầng mạng độc quyền, loại bỏ mọi yếu tố gây xao nhãng."
+        },
+        "packaging": {
+          "incoterms": [
+            "EXW (Giao tại xưởng)",
+            "FOB (Giao tại Cảng đi)",
+            "CIF (Tiền hàng, Bảo hiểm và Cước phí đến Cảng đích)",
+            "DDP (Giao hàng đã nộp thuế)"
+          ],
+          "packagingSpecs": [
+            {
+              "label": "Kích thước Thùng Carton Xuất khẩu",
+              "value": "Theo Module (Max 2.5m x 1.5m x 1.8m)"
+            },
+            {
+              "label": "Vật liệu Đóng gói",
+              "value": "Khung thép cường lực và pallet gỗ xông khói ISPM 15"
+            },
+            {
+              "label": "Trọng lượng Net/Gross (Trung bình)",
+              "value": "Tùy chỉnh theo cấu hình"
+            },
+            {
+              "label": "Nhãn mác",
+              "value": "Tiêu chuẩn quốc tế GHS và mã vạch EAN/UPC"
+            },
+            {
+              "label": "Bảo vệ Chống sốc",
+              "value": "Lớp mút xốp định hình mật độ cao (High-Density Foam)"
+            },
+            {
+              "label": "Số lượng/Container 40' HQ",
+              "value": "Ước tính 4-6 Module hoàn chỉnh"
+            }
+          ],
+          "shippingMethods": [
+            {
+              "icon": "Ship",
+              "methodName": "Vận tải Đường biển (FCL/LCL)",
+              "description": "Giải pháp tiết kiệm chi phí cho đơn hàng số lượng lớn, đảm bảo an toàn hàng hóa."
+            },
+            {
+              "icon": "Truck",
+              "methodName": "Vận tải Đường bộ (Door-to-Door)",
+              "description": "Phù hợp cho các lô hàng trong khu vực Châu Á và các tuyến đường bộ xuyên lục địa."
+            },
+            {
+              "icon": "Plane",
+              "methodName": "Vận tải Hàng không",
+              "description": "Dịch vụ ưu tiên cho các dự án cần thời gian giao hàng gấp rút."
+            },
+            {
+              "icon": "Warehouse",
+              "methodName": "Kho Bãi Tạm Nhập/Tái Xuất",
+              "description": "Hỗ trợ lưu kho linh hoạt tại các cảng quốc tế chiến lược."
+            }
+          ]
+        },
+        "whyChoose": {
+          "metrics": [
+            {
+              "icon": "Award",
+              "label": "Tỷ lệ Dự án Hoàn thành Đúng Hạn",
+              "value": "99.8%"
+            },
+            {
+              "icon": "Users",
+              "label": "Khách hàng Doanh nghiệp Toàn cầu",
+              "value": "50+"
+            },
+            {
+              "icon": "Clock",
+              "label": "Năm Kinh nghiệm trong ngành Hạ tầng IT",
+              "value": "15+"
+            },
+            {
+              "icon": "TrendingUp",
+              "label": "Tăng trưởng Doanh thu Xuất khẩu Hàng năm",
+              "value": "25%"
+            }
+          ],
+          "strengths": [
+            "Chuyên môn sâu về tiêu chuẩn Esports và cơ sở hạ tầng mạng tốc độ cao.",
+            "Quy trình sản xuất tinh gọn (Lean Manufacturing) giúp tối ưu chi phí.",
+            "Đội ngũ kỹ thuật hỗ trợ lắp đặt và vận hành từ xa 24/7.",
+            "Khả năng tùy biến sản phẩm linh hoạt theo ngân sách và yêu cầu kỹ thuật.",
+            "Cam kết bảo hành dài hạn và dịch vụ hậu mãi toàn diện."
+          ]
+        },
+        "leadMagnet": {
+          "title": "Tải Xuống Catalog Sản Phẩm & Bảng Dữ Liệu Kỹ Thuật Chi Tiết",
+          "benefits": [
+            "Xem mô hình 3D chi tiết của các cấu hình phòng tiêu chuẩn.",
+            "Phân tích chuyên sâu về hiệu suất cách âm và truyền tải dữ liệu.",
+            "Bảng giá tham khảo cho các gói tùy chỉnh phổ biến.",
+            "Hồ sơ năng lực và danh sách dự án tiêu biểu đã thực hiện."
+          ]
+        },
+        "showPreview": false,
+        "applications": {
+          "title": "Ứng Dụng & Trường Hợp Sử Dụng",
+          "applications": [
+            {
+              "icon": "Gamepad",
+              "industry": "Esports Chuyên nghiệp",
+              "description": "Cung cấp môi trường tập luyện ổn định, không gián đoạn cho các đội tuyển tham gia giải đấu cấp quốc gia và quốc tế."
+            },
+            {
+              "icon": "BookOpen",
+              "industry": "Học viện Đào tạo & Huấn luyện",
+              "description": "Thiết lập phòng lab đào tạo tiêu chuẩn cao, hỗ trợ phân tích hiệu suất và huấn luyện từ xa."
+            },
+            {
+              "icon": "FlaskConical",
+              "industry": "Phòng Thí nghiệm Nghiên cứu Game",
+              "description": "Môi trường kiểm soát cho các buổi thử nghiệm beta, thu thập dữ liệu hành vi người dùng dưới điều kiện tối ưu."
+            },
+            {
+              "icon": "Briefcase",
+              "industry": "Trung tâm Đổi mới Doanh nghiệp",
+              "description": "Không gian hợp tác công nghệ cao, yêu cầu kết nối mạng siêu ổn định và bảo mật cao."
+            }
+          ]
+        },
+        "certifications": {
+          "qcProcess": [
+            {
+              "step": 1,
+              "title": "Kiểm Tra Nguyên Vật Liệu Đầu Vào",
+              "description": "Xác minh chứng chỉ chất lượng và kiểm tra vật lý từng lô vật liệu thô."
+            },
+            {
+              "step": 2,
+              "title": "Kiểm Soát Trong Quá Trình Sản Xuất",
+              "description": "Giám sát các điểm lắp ráp quan trọng bằng thiết bị đo lường tự động."
+            },
+            {
+              "step": 3,
+              "title": "Kiểm Tra Hiệu Suất Mạng (Stress Test)",
+              "description": "Chạy thử nghiệm tải tối đa 72 giờ trên hệ thống mạng nội bộ và kết nối WAN mô phỏng."
+            },
+            {
+              "step": 4,
+              "title": "Kiểm Tra Chất Lượng Môi Trường",
+              "description": "Đo lường mức độ cách âm, nhiệt độ và độ ẩm trước khi bàn giao."
+            },
+            {
+              "step": 5,
+              "title": "Kiểm Tra Lắp Đặt & Nghiệm Thu (FAT/SAT)",
+              "description": "Thực hiện kiểm tra chấp nhận tại nhà máy (FAT) và kiểm tra chấp nhận tại địa điểm khách hàng (SAT)."
+            }
+          ],
+          "certifications": [
+            {
+              "name": "ISO 9001:2015",
+              "description": "Hệ thống quản lý chất lượng toàn diện trong thiết kế, sản xuất và lắp đặt."
+            },
+            {
+              "name": "CE Marking (EU)",
+              "description": "Đảm bảo sản phẩm tuân thủ các tiêu chuẩn sức khỏe, an toàn và bảo vệ môi trường của Liên minh Châu Âu."
+            },
+            {
+              "name": "RoHS Compliance",
+              "description": "Cam kết không sử dụng các chất độc hại bị hạn chế trong thiết bị điện và điện tử."
+            },
+            {
+              "name": "TIA/EIA Standards Compliance",
+              "description": "Tuân thủ các tiêu chuẩn về hạ tầng viễn thông, đảm bảo chất lượng cáp và kết nối mạng."
+            }
+          ]
+        },
+        "selectedProductId": "3"
+      }
+    },
+    "activeProductPageId": "3"
   }
 }

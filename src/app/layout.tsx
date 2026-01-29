@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     description: 'Chuyên cung cấp cà phê Việt Nam chất lượng cao cho thị trường quốc tế',
     images: [
       {
-        url: '/placeholder.jpg',
+        url: '/uploads/1769677566889-6nz55b357at.png',
         width: 1200,
         height: 630,
         alt: 'Cà Phê Việt Nam - Chất Lượng Quốc Tế',
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Cà Phê Việt Nam - Chất Lượng Quốc Tế',
     description: 'Chuyên cung cấp cà phê Việt Nam chất lượng cao cho thị trường quốc tế',
-    images: ['/placeholder.jpg'],
+    images: ['/uploads/1769677566889-6nz55b357at.png'],
   },
   
   // Additional
@@ -64,6 +64,17 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.ENV = {
+                NEXT_PUBLIC_API_URL: ${JSON.stringify(process.env.NEXT_PUBLIC_API_URL || '')}
+              };
+            `,
+          }}
+        />
+      </head>
       <body className={inter.className}>{children}</body>
     </html>
   )

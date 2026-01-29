@@ -10,6 +10,9 @@ import WhyChooseUsSection from './vietnam-coffee/WhyChooseUsSection'
 import ProductsServices from './vietnam-coffee/ProductsServices'
 import Testimonials from './vietnam-coffee/Testimonials'
 import Footer from './vietnam-coffee/Footer'
+// For exported projects, ProductPage is in @/components/product/ProductPage
+// We need to handle this dynamically based on whether files exist
+import ProductPage from '../product/ProductPage'
 
 // Import HeroContent type
 interface HeroContent {
@@ -17,6 +20,7 @@ interface HeroContent {
   subtitle?: string;
   description?: string;
   ctaText?: string;
+  ctaSecondaryText?: string;
   image?: string;
   backgroundImage?: string;
   backgroundColor?: string;
@@ -57,8 +61,8 @@ export default function VietnamCoffeeTheme({ theme, content, onContentUpdate }: 
       subtitle: "Xuất khẩu cà phê chất lượng cao",
       description: "Chúng tôi chuyên cung cấp các loại cà phê Việt Nam chất lượng cao cho thị trường quốc tế, đảm bảo hương vị đặc trưng và tiêu chuẩn xuất khẩu.",
       ctaText: "Tìm hiểu thêm",
-      image: "/assets/hero-coffee.jpg",
-      backgroundImage: "/assets/hero-coffee.jpg",
+      image: "https://placehold.co/600x400?text=Hero+Image",
+      backgroundImage: "https://placehold.co/1920x1080?text=Hero+Background",
     },
     problems: {
       title: "Thách Thức Hiện Tại",
@@ -254,11 +258,34 @@ export default function VietnamCoffeeTheme({ theme, content, onContentUpdate }: 
         email: "info@capheviet.com",
         address: "123 Đường ABC, Quận 1, TP.HCM"
       }
+    },
+    productPage: {
+      enabled: false, // Disabled by default, requires PRO tier
+      hero: {
+        title: "[Product Name] Manufacturer & Exporter | Custom OEM Solutions",
+        subtitle: "Professional supplier with years of manufacturing experience",
+        usps: [
+          "ISO 9001:2015 Certified Manufacturing",
+          "MOQ as low as 500 units",
+          "15+ years export experience to US, EU & Global markets"
+        ],
+        images: ["https://placehold.co/600x600?text=Product+Hero"],
+        mainImage: "https://placehold.co/600x600?text=Product+Hero"
+      },
+      overview: {
+        description: "Professional product description focusing on core value proposition and suitability for international buyers.",
+        highlights: [
+          { icon: "Target", label: "Application", value: "Industrial, Commercial, Consumer" },
+          { icon: "Factory", label: "Target Industries", value: "Automotive, Electronics, Construction" },
+          { icon: "Globe", label: "Export Markets", value: "USA, Europe, Middle East, Asia" },
+          { icon: "Package", label: "MOQ", value: "500 Units" }
+        ]
+      }
     }
   }
 
   const mergedContent = { ...defaultContent, ...content }
-  
+
   // Merge theme content with default content
   const finalContent = {
     ...mergedContent,
@@ -309,7 +336,7 @@ export default function VietnamCoffeeTheme({ theme, content, onContentUpdate }: 
   if (finalContent.problems && !Array.isArray(finalContent.problems.items)) {
     finalContent.problems.items = defaultContent.problems.items
   }
-  
+
   if (finalContent.solutions && !Array.isArray(finalContent.solutions.items)) {
     finalContent.solutions.items = defaultContent.solutions.items
   }
@@ -352,25 +379,35 @@ export default function VietnamCoffeeTheme({ theme, content, onContentUpdate }: 
   //   }
   // }
 
+  // Check if Product Page preview is enabled in editor
+  const activeProductPageId = finalContent.activeProductPageId
+  const productPages = finalContent.productPages || {}
+  const activeProductPage = activeProductPageId ? productPages[activeProductPageId] : undefined
+  const showProductPage = activeProductPage?.showPreview || false
+
+  if (showProductPage && activeProductPageId) {
+    return <ProductPage productId={activeProductPageId} />
+  }
+
   return (
-    <div 
-      className="min-h-screen" 
+    <div
+      className="min-h-screen"
       style={getTypographyStyles()}
     >
       <Header theme={theme} content={finalContent.header} />
-      <HeroSection 
-        theme={theme} 
+      <HeroSection
+        theme={theme}
         content={finalContent.hero}
         onContentUpdate={handleHeroContentUpdate}
       />
-      <ProblemSolution 
-        theme={theme} 
+      <ProblemSolution
+        theme={theme}
         content={{
           about: finalContent.about,
           problems: finalContent.problems,
           solutions: finalContent.solutions,
           cta: finalContent.cta
-        }} 
+        }}
       />
       <LeadMagnetSection theme={theme} content={finalContent.leadMagnet} />
       <ProductsServices theme={theme} content={finalContent.products} />
